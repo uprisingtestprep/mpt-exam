@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "number_sense_and_numeration",
+    "front": "In the number 58,304, what is the value represented by the digit 8?",
+    "back": "The 8 is in the thousands place, so it represents 8 thousand, or 8,000. Each place value is ten times the value of the place to its right, which is why the same digit 8 would represent only 800 if it were one place to the right."
+  },
+  {
+    "id": 2,
+    "domain": "number_sense_and_numeration",
+    "front": "Why do many students believe there is a place directly to the right of the decimal point that mirrors the tens place?",
+    "back": "Students often assume place values are symmetrical around the decimal point rather than around the ones place. In reality the tenths place is one tenth of the ones place, not a mirror of the tens place, so no such symmetry exists."
+  },
+  {
+    "id": 3,
+    "domain": "number_sense_and_numeration",
+    "front": "A student claims 0.62 is greater than 0.7 because 62 is a bigger number than 7. What is the misconception and how would you correct it?",
+    "back": "The student is treating the digits after the decimal point as a whole number instead of attending to place value. Rewriting both decimals with the same number of decimal places, 0.62 and 0.70, shows that 7 tenths is greater than 6 tenths, so 0.7 is actually larger."
+  },
+  {
+    "id": 4,
+    "domain": "number_sense_and_numeration",
+    "front": "What is the correct way to compare 0.4 and 0.40?",
+    "back": "These two decimals are equal in value. Adding a zero to the end of a decimal after the last nonzero digit does not change its value, since 0.40 still represents 4 tenths, the same amount as 0.4."
+  },
+  {
+    "id": 5,
+    "domain": "number_sense_and_numeration",
+    "front": "Define an integer.",
+    "back": "An integer is any whole number, its opposite, or zero, including negative whole numbers. Integers extend the number line in both directions from zero, unlike whole numbers, which start at zero and go only in the positive direction."
+  },
+  {
+    "id": 6,
+    "domain": "number_sense_and_numeration",
+    "front": "How should subtraction of integers be reframed to make it easier to reason about?",
+    "back": "Subtraction of an integer can always be rewritten as adding its opposite. For example, 5 minus negative 3 becomes 5 plus positive 3, which equals 8, removing the need to memorize separate subtraction sign rules."
+  },
+  {
+    "id": 7,
+    "domain": "number_sense_and_numeration",
+    "front": "A student says negative 6 plus negative 2 equals positive 8 because two negatives make a positive. What is wrong with this reasoning?",
+    "back": "The student is overgeneralizing the multiplication and division sign rule to addition, where it does not apply. When adding two integers with the same sign, you add the absolute values and keep that common sign, so negative 6 plus negative 2 equals negative 8."
+  },
+  {
+    "id": 8,
+    "domain": "number_sense_and_numeration",
+    "front": "What is the sign of the product when multiplying one negative integer by one positive integer?",
+    "back": "The product is always negative. One negative factor and one positive factor multiplied together always produce a negative result, regardless of the size of the numbers involved."
+  },
+  {
+    "id": 9,
+    "domain": "number_sense_and_numeration",
+    "front": "Why does dividing by a fraction give a larger result than the original dividend, when dividing by a fraction less than 1?",
+    "back": "Dividing by a fraction less than 1 asks how many groups of that fraction fit inside the dividend, and since the group size is smaller than one whole, more groups fit inside. For example, 3 divided by 1 half equals 6, since six halves fit into 3 wholes."
+  },
+  {
+    "id": 10,
+    "domain": "number_sense_and_numeration",
+    "front": "Explain why 'keep, change, flip' works for dividing fractions.",
+    "back": "Dividing by a number is mathematically equivalent to multiplying by its reciprocal. 'Keep' the first fraction, 'change' division to multiplication, and 'flip' the second fraction to its reciprocal, which produces the same result as true division without changing the value of the expression."
+  },
+  {
+    "id": 11,
+    "domain": "number_sense_and_numeration",
+    "front": "A student adds 1 half plus 1 third and gets 2 fifths by adding the numerators and denominators separately. What is the correct answer and why is the student's method wrong?",
+    "back": "The correct answer is 5 sixths, found by rewriting both fractions with a common denominator of 6 and adding the numerators only. Adding denominators directly is wrong because the denominator names the size of the equal parts, not a quantity that can be combined."
+  },
+  {
+    "id": 12,
+    "domain": "number_sense_and_numeration",
+    "front": "Why does multiplying fractions not require a common denominator, unlike adding or subtracting fractions?",
+    "back": "Multiplication asks for a part of a part rather than combining like-sized pieces, so the numerators and denominators can simply be multiplied straight across. Addition and subtraction require the parts to already be the same size before they can be combined, which is why a common denominator is needed only for those operations."
+  },
+  {
+    "id": 13,
+    "domain": "number_sense_and_numeration",
+    "front": "Multiply 3 fourths by 2 thirds and simplify.",
+    "back": "Multiply the numerators, 3 times 2, to get 6, and multiply the denominators, 4 times 3, to get 12, giving 6 twelfths. Simplified to lowest terms, this equals 1 half."
+  },
+  {
+    "id": 14,
+    "domain": "number_sense_and_numeration",
+    "front": "What are equivalent fractions and how are they generated?",
+    "back": "Equivalent fractions represent the same value using different numerators and denominators. They are generated by multiplying or dividing both the numerator and the denominator by the same nonzero number, which does not change the overall value of the fraction."
+  },
+  {
+    "id": 15,
+    "domain": "number_sense_and_numeration",
+    "front": "Two fractions share the same numerator but different denominators. Which fraction is larger, and why?",
+    "back": "The fraction with the smaller denominator is larger. A smaller denominator means the whole is divided into fewer, larger equal parts, so each part represents a greater amount even though the numerators are the same."
+  },
+  {
+    "id": 16,
+    "domain": "number_sense_and_numeration",
+    "front": "Using benchmark fractions, quickly determine which is larger: 5 eighths or 3 eighths, using 1 half as a reference point.",
+    "back": "5 eighths is greater than 1 half, while 3 eighths is less than 1 half, so 5 eighths is the larger fraction. Comparing both fractions to a shared benchmark like 1 half is often faster than finding a common denominator."
+  },
+  {
+    "id": 17,
+    "domain": "number_sense_and_numeration",
+    "front": "A student concludes 2 thirds is less than 3 eighths simply because 2 is less than 3. What error is this, and how should a teacher respond?",
+    "back": "The student is comparing numerators alone without accounting for the different denominators, ignoring how the wholes are divided. A teacher should use a visual model, such as equal length fraction bars, or convert both fractions to a common denominator of 24, showing 16 twenty-fourths versus 9 twenty-fourths, so the student sees 2 thirds is actually greater than 3 eighths, the opposite of the numerator-only conclusion."
+  },
+  {
+    "id": 18,
+    "domain": "number_sense_and_numeration",
+    "front": "Write 45 percent as both a fraction in lowest terms and a decimal.",
+    "back": "As a fraction, 45 percent is 45 over 100, which simplifies to 9 over 20. As a decimal, 45 percent is written as 0.45."
+  },
+  {
+    "id": 19,
+    "domain": "number_sense_and_numeration",
+    "front": "Find 15 percent of 80.",
+    "back": "Convert 15 percent to the decimal 0.15 and multiply by 80. This gives 0.15 times 80, which equals 12."
+  },
+  {
+    "id": 20,
+    "domain": "number_sense_and_numeration",
+    "front": "A shirt's price increases by 20 percent from 60 dollars. A student calculates 20 percent of 60 and answers 12 dollars as the new price. What went wrong?",
+    "back": "The student found the amount of the increase but stopped there instead of adding it to the original price. The correct new price adds the increase to the original amount, giving 60 plus 12, which equals 72 dollars."
+  },
+  {
+    "id": 21,
+    "domain": "number_sense_and_numeration",
+    "front": "A jacket is on sale for 80 dollars after a 20 percent discount. A student calculates 20 percent of 80 and adds it back to get the original price. Why is this incorrect, and what is the correct original price?",
+    "back": "This is incorrect because 80 dollars represents 80 percent of the original price, not 100 percent, so 20 percent of 80 is not the same as 20 percent of the original. Setting up 80 as 80 percent of the unknown price and solving proportionally gives an original price of 100 dollars."
+  },
+  {
+    "id": 22,
+    "domain": "number_sense_and_numeration",
+    "front": "What is the difference between a ratio and a rate?",
+    "back": "A ratio compares two or more quantities measured in the same units, such as red marbles to blue marbles. A rate compares two quantities measured in different units, such as kilometres per hour or dollars per kilogram."
+  },
+  {
+    "id": 23,
+    "domain": "number_sense_and_numeration",
+    "front": "A recipe uses a ratio of 2 cups of flour to 3 cups of sugar. How much flour is needed for 12 cups of sugar?",
+    "back": "Set up the proportion 2 over 3 equals x over 12, then solve by recognizing 12 is 4 times 3, so multiply the flour amount by 4 as well. This gives 8 cups of flour."
+  },
+  {
+    "id": 24,
+    "domain": "number_sense_and_numeration",
+    "front": "A student scales a ratio of 2 to 3 up to a ratio of 12 sugar by adding 9 to both numbers, getting 11 to 12, instead of multiplying. What is this error called and how should it be corrected?",
+    "back": "This is the additive reasoning error, sometimes called the 'add the same amount' mistake, where a student adds instead of multiplies to scale a ratio. It should be corrected by returning to multiplicative scaling, using a ratio table or double number line to show both terms must be multiplied by the same scale factor."
+  },
+  {
+    "id": 25,
+    "domain": "number_sense_and_numeration",
+    "front": "What does BEDMAS stand for, and what is the most important thing to remember about the D and M steps?",
+    "back": "BEDMAS stands for Brackets, Exponents, Division and Multiplication, and Addition and Subtraction. Division and multiplication are not performed in the order the letters appear, they are performed together in the order they appear left to right in the expression."
+  },
+  {
+    "id": 26,
+    "domain": "number_sense_and_numeration",
+    "front": "Evaluate 3 plus 4 times 2 using the correct order of operations.",
+    "back": "Multiplication is performed before addition, so 4 times 2 is calculated first, giving 8. Then 3 is added to get a final answer of 11."
+  },
+  {
+    "id": 27,
+    "domain": "number_sense_and_numeration",
+    "front": "Evaluate 20 minus 4 plus 6 and explain why the answer is not found by doing addition first.",
+    "back": "Addition and subtraction are performed together from left to right, not addition before subtraction. Reading left to right, 20 minus 4 equals 16, then 16 plus 6 equals 22."
+  },
+  {
+    "id": 28,
+    "domain": "number_sense_and_numeration",
+    "front": "What is GEMDAS and why should a teacher candidate recognize it?",
+    "back": "GEMDAS stands for Grouping symbols, Exponents, Multiplication and Division, and Addition and Subtraction. It represents the identical order of operations as BEDMAS using different wording, and candidates should recognize both terms since different resources may use either one."
+  },
+  {
+    "id": 29,
+    "domain": "number_sense_and_numeration",
+    "front": "A student calculates 4 squared as 8 by multiplying 4 times 2. What is the misconception behind this error?",
+    "back": "The student believes an exponent means multiply the base by the exponent, rather than multiply the base by itself that many times. The correct calculation is 4 times 4, which equals 16, not 4 times 2."
+  },
+  {
+    "id": 30,
+    "domain": "number_sense_and_numeration",
+    "front": "Why is the exponent 2 especially likely to produce the 'multiply base by exponent' misconception, compared to other exponents?",
+    "back": "For the base number 2, doubling and squaring coincidentally give the same result, since 2 times 2 equals 2 squared. This false agreement can reinforce the wrong rule in a student's mind before they test it on other numbers, where the two methods give different answers."
+  },
+  {
+    "id": 31,
+    "domain": "number_sense_and_numeration",
+    "front": "Evaluate 6 to the power of 0.",
+    "back": "Any nonzero number raised to the power of zero equals 1 by definition. So 6 to the power of 0 equals 1, not 0."
+  },
+  {
+    "id": 32,
+    "domain": "number_sense_and_numeration",
+    "front": "Evaluate 2 plus 3 squared, showing why the answer is not 25.",
+    "back": "The exponent applies only to the 3, not to the sum of 2 and 3, since exponents are evaluated before addition in the order of operations. So 3 squared equals 9 first, then 2 plus 9 equals 11."
+  },
+  {
+    "id": 33,
+    "domain": "number_sense_and_numeration",
+    "front": "What is the difference between front end estimation and using compatible numbers?",
+    "back": "Front end estimation uses only the leading digits of each number and treats the rest as zero. Using compatible numbers involves mentally adjusting values to numbers that are easy to compute with, such as replacing 297 with 300, rather than only looking at leading digits."
+  },
+  {
+    "id": 34,
+    "domain": "number_sense_and_numeration",
+    "front": "Round 3,847 to the nearest hundred.",
+    "back": "Look at the tens digit, which is 4. Since 4 is less than 5, round down, keeping the hundreds digit the same and giving 3,800."
+  },
+  {
+    "id": 35,
+    "domain": "number_sense_and_numeration",
+    "front": "Round 6.478 to the nearest tenth.",
+    "back": "Look at the hundredths digit, which is 7. Since 7 is 5 or greater, round up the tenths digit, giving 6.5."
+  },
+  {
+    "id": 36,
+    "domain": "number_sense_and_numeration",
+    "front": "A student calculates 6.2 times 3.9 and gets 2.418 due to a misplaced decimal point. How can estimation help catch this error?",
+    "back": "Estimating 6 times 4 gives about 24, which is far larger than 2.418, immediately signaling something is wrong. The true answer, 24.18, is close to the estimate, showing the decimal point in the student's calculation was placed incorrectly."
+  },
+  {
+    "id": 37,
+    "domain": "number_sense_and_numeration",
+    "front": "Why is it a misconception to believe estimation always produces exactly one correct answer?",
+    "back": "Different estimation strategies applied to the same problem can produce different, equally reasonable estimates depending on the purpose of the estimate. What matters is that the estimate is close enough to be useful for the given situation, not that it matches one single fixed value."
+  },
+  {
+    "id": 38,
+    "domain": "number_sense_and_numeration",
+    "front": "What underlying type of reasoning error connects mistakes in comparing decimals, scaling ratios, applying percent, and interpreting exponents?",
+    "back": "All four areas commonly show confusion between additive and multiplicative reasoning, where students apply an addition based strategy to a situation that actually requires multiplicative thinking. Recognizing this shared pattern helps a teacher choose one well chosen visual model to address several different surface level errors."
+  },
+  {
+    "id": 39,
+    "domain": "number_sense_and_numeration",
+    "front": "Order the following from least to greatest: 0.6, 3 fifths, 58 percent.",
+    "back": "Converting all three to the same form shows 0.6 equals 60 percent, 3 fifths also equals 60 percent, and 58 percent is 0.58. So the correct order from least to greatest is 58 percent, then 0.6 and 3 fifths, which are equal."
+  },
+  {
+    "id": 40,
+    "domain": "number_sense_and_numeration",
+    "front": "Why must both the numerator and denominator be multiplied by the same number when finding an equivalent fraction, rather than just the numerator?",
+    "back": "Multiplying only the numerator would change the actual value of the fraction, not just its appearance. Multiplying both parts by the same number is the same as multiplying the whole fraction by 1, expressed as a fraction like 4 over 4, which preserves its true value."
+  },
+  {
+    "id": 41,
+    "domain": "number_sense_and_numeration",
+    "front": "Subtract 3 and 1 fourth from 5 and 1 half, expressing the answer as a mixed number.",
+    "back": "Convert both mixed numbers to a common denominator of 4: 5 and 2 fourths minus 3 and 1 fourth. Subtracting whole numbers and fraction parts separately gives 2 and 1 fourth."
+  },
+  {
+    "id": 42,
+    "domain": "number_sense_and_numeration",
+    "front": "A student believes 0 to the power of 5 equals 5. What is the correct value and the underlying rule?",
+    "back": "Zero raised to any positive whole number exponent equals 0, since multiplying zero by itself any number of times always gives zero. The correct value is 0, not 5."
+  },
+  {
+    "id": 43,
+    "domain": "number_sense_and_numeration",
+    "front": "Why is understanding place value described as the foundation for the entire Number Sense and Numeration strand?",
+    "back": "Nearly every other skill in the strand, including comparing decimals, rounding, operating with fractions, and applying percent, depends on understanding that each digit's value is determined by its position and that positions relate to each other multiplicatively. Without this foundation, students resort to memorized, disconnected procedures that break down in unfamiliar situations."
+  },
+  {
+    "id": 44,
+    "domain": "number_sense_and_numeration",
+    "front": "Divide 2 thirds by 3 fourths.",
+    "back": "Keep the first fraction, change division to multiplication, and flip the second fraction to its reciprocal, giving 2 thirds times 4 thirds. Multiplying across gives 8 ninths."
+  },
+  {
+    "id": 45,
+    "domain": "number_sense_and_numeration",
+    "front": "What visual model helps students understand why multiplying two fractions less than 1 produces a smaller product than either original fraction?",
+    "back": "An area model, where one fraction is represented along the width of a rectangle and the other along the height, visually shows the overlapping region as a part of a part. This makes clear why the resulting product is smaller than either fraction being multiplied."
+  },
+  {
+    "id": 46,
+    "domain": "number_sense_and_numeration",
+    "front": "A student says a decimal number with more digits after the decimal point is always the larger number. Give a counterexample that disproves this.",
+    "back": "0.5 has fewer digits than 0.45, but 0.5 is actually the larger number, since 5 tenths is greater than 4 tenths. This shows the length of a decimal has no bearing on its size, only the actual place values matter."
+  },
+  {
+    "id": 47,
+    "domain": "number_sense_and_numeration",
+    "front": "Explain the sign rule for dividing two integers with the same sign.",
+    "back": "When two integers being divided have the same sign, whether both positive or both negative, the quotient is always positive. This mirrors the multiplication sign rule, since division and multiplication share the same sign behaviour."
+  },
+  {
+    "id": 48,
+    "domain": "number_sense_and_numeration",
+    "front": "A recipe scaling problem gives a ratio of 4 to 5 and asks for an equivalent ratio with a second term of 25. What is the missing first term, and what operation finds it?",
+    "back": "Since 25 divided by 5 equals 5, the scale factor is 5, so the first term must also be multiplied by 5. This gives a missing first term of 20, making the equivalent ratio 20 to 25."
+  },
+  {
+    "id": 49,
+    "domain": "number_sense_and_numeration",
+    "front": "Why is it useful for a teacher candidate to be able to solve a proportion using more than one method, such as unit rates, equivalent ratios, and cross multiplication?",
+    "back": "Different students find different strategies more intuitive, and being flexible across methods allows a teacher to meet a struggling student where their current understanding is. It also lets the teacher choose whichever method most clearly reveals the reasoning behind a particular problem rather than relying on one memorized procedure."
+  },
+  {
+    "id": 50,
+    "domain": "number_sense_and_numeration",
+    "front": "What is the correct first step when evaluating an expression containing nested brackets, such as 2 times the quantity 3 plus the quantity 4 minus 1?",
+    "back": "Work from the innermost set of brackets outward, so the quantity 4 minus 1 is evaluated first, giving 3. Then the outer bracket, 3 plus 3, is evaluated next, giving 6, before finally multiplying by 2 to get 12."
+  },
+  {
+    "id": 51,
+    "domain": "number_sense_and_numeration",
+    "front": "A student estimates 297 times 24 by rounding to 300 times 25. What estimation strategy is this, and what is the estimated product?",
+    "back": "This is the compatible numbers strategy, where both factors are adjusted to nearby values that are easy to multiply mentally. 300 times 25 equals 7,500, which is a reasonable estimate close to the exact product."
+  },
+  {
+    "id": 52,
+    "domain": "number_sense_and_numeration",
+    "front": "Why does the curriculum favor teaching integer subtraction as 'adding the opposite' rather than a separate set of memorized rules?",
+    "back": "Framing subtraction as adding the opposite builds it directly out of addition, which students already understand, rather than requiring an entirely separate memorized rule set. This is more consistent with a conceptual approach to teaching integers, where new operations are connected to previously understood ones instead of taught in isolation."
+  },
+  {
+    "id": 53,
+    "domain": "number_sense_and_numeration",
+    "front": "What does it mean to write a number in expanded form, using 4,652 as an example?",
+    "back": "Expanded form breaks a number into the sum of the value each digit represents. For 4,652, this is 4,000 plus 600 plus 50 plus 2, showing explicitly what each digit's place value contributes to the total."
+  },
+  {
+    "id": 54,
+    "domain": "number_sense_and_numeration",
+    "front": "Explain, using place value, why multiplying a decimal by 10 shifts every digit one place to the left.",
+    "back": "Multiplying by 10 increases the value of every digit tenfold, and since each place value is already ten times the one to its right, a tenfold increase moves each digit into the next place to the left. For example, 0.6 times 10 equals 6, moving the digit from the tenths place to the ones place."
+  },
+  {
+    "id": 55,
+    "domain": "number_sense_and_numeration",
+    "front": "A student writes 3.5 as 3 and 5 hundredths instead of 3 and 5 tenths. What is the underlying error?",
+    "back": "The student is misreading which decimal place the digit 5 occupies, treating the first decimal place as hundredths instead of tenths. Since 3.5 has only one digit after the decimal point, that digit belongs in the tenths place, so the correct reading is 3 and 5 tenths."
+  },
+  {
+    "id": 56,
+    "domain": "number_sense_and_numeration",
+    "front": "Order the integers negative 8, 3, negative 1, and 0 from least to greatest.",
+    "back": "On a number line, values further left are smaller. The correct order from least to greatest is negative 8, negative 1, 0, and 3."
+  },
+  {
+    "id": 57,
+    "domain": "number_sense_and_numeration",
+    "front": "Explain why negative 1 is greater than negative 5, even though 5 is greater than 1.",
+    "back": "For negative numbers, being closer to zero on the number line means being greater in value, which reverses the ordering students expect from positive numbers. Negative 1 is closer to zero than negative 5, so negative 1 is the greater value."
+  },
+  {
+    "id": 58,
+    "domain": "number_sense_and_numeration",
+    "front": "Calculate negative 12 divided by negative 4.",
+    "back": "Two negative integers divided produce a positive quotient, following the same sign rule as multiplication. Negative 12 divided by negative 4 equals positive 3."
+  },
+  {
+    "id": 59,
+    "domain": "number_sense_and_numeration",
+    "front": "Why can a two colour counter model help students understand why negative 5 plus 5 equals zero?",
+    "back": "In this model, one counter colour represents positive one and the other represents negative one, and each matched pair of opposite colours cancels to represent zero. Five positive counters paired with five negative counters leave no unmatched counters, visually showing the sum is zero."
+  },
+  {
+    "id": 60,
+    "domain": "number_sense_and_numeration",
+    "front": "Subtract 2 thirds from 5 sixths.",
+    "back": "Rewrite 2 thirds with a common denominator of 6, giving 4 sixths. Subtracting 4 sixths from 5 sixths leaves 1 sixth."
+  },
+  {
+    "id": 61,
+    "domain": "number_sense_and_numeration",
+    "front": "A student adds 3 and 1 half plus 2 and 1 half and forgets to combine the whole number sum with the fraction sum correctly, writing 5 and 2 halves as the final answer. What is the correct final answer?",
+    "back": "The fraction parts, 1 half plus 1 half, combine to make a whole 1, which must be added to the whole number sum. The correct final answer is 5 plus 1, which equals 6."
+  },
+  {
+    "id": 62,
+    "domain": "number_sense_and_numeration",
+    "front": "Why is simplifying a fraction to lowest terms important when reporting a final answer?",
+    "back": "A fraction in lowest terms has no common factor other than 1 between its numerator and denominator, making the value as clear and easy to interpret as possible. While an unsimplified fraction is not mathematically wrong, lowest terms is the conventional way to express a final answer clearly."
+  },
+  {
+    "id": 63,
+    "domain": "number_sense_and_numeration",
+    "front": "Convert 7 fourths to a mixed number.",
+    "back": "Divide the numerator by the denominator: 7 divided by 4 equals 1 with a remainder of 3. This gives the mixed number 1 and 3 fourths."
+  },
+  {
+    "id": 64,
+    "domain": "number_sense_and_numeration",
+    "front": "Convert the mixed number 2 and 3 fifths to an improper fraction.",
+    "back": "Multiply the whole number by the denominator, 2 times 5, which equals 10, then add the numerator, 3, giving 13. The improper fraction is 13 fifths, keeping the same denominator."
+  },
+  {
+    "id": 65,
+    "domain": "number_sense_and_numeration",
+    "front": "What percent of 40 is 10?",
+    "back": "Divide the part by the whole, 10 divided by 40, which equals 0.25. Converting 0.25 to a percent gives 25 percent."
+  },
+  {
+    "id": 66,
+    "domain": "number_sense_and_numeration",
+    "front": "A test score is reported as 85 percent. Write this as a fraction in lowest terms.",
+    "back": "85 percent equals 85 over 100, which simplifies by dividing both terms by 5 to give 17 over 20. This fraction cannot be simplified further since 17 is a prime number that does not divide evenly into 20."
+  },
+  {
+    "id": 67,
+    "domain": "number_sense_and_numeration",
+    "front": "Why does converting a percent to a decimal before multiplying give the correct result when finding a percent of a number?",
+    "back": "A percent is really a fraction over 100, so converting it to a decimal captures that same value in a form that is easy to multiply directly. Multiplying by the decimal form of the percent automatically accounts for the division by 100 that the word percent implies."
+  },
+  {
+    "id": 68,
+    "domain": "number_sense_and_numeration",
+    "front": "A population decreases by 30 percent from 200 people. Find the new population.",
+    "back": "30 percent of 200 is 60, representing the decrease. Subtracting this from the original 200 gives a new population of 140 people."
+  },
+  {
+    "id": 69,
+    "domain": "number_sense_and_numeration",
+    "front": "What is the relationship between simple interest, percent, and rate in a financial context?",
+    "back": "Simple interest is calculated by finding a percent of a principal amount, where the percent is expressed as an annual interest rate. This connects the percent skill directly to a real world rate application, since the interest rate itself is a rate that compares dollars earned to dollars invested over time."
+  },
+  {
+    "id": 70,
+    "domain": "number_sense_and_numeration",
+    "front": "Two classes have different numbers of students. Class A has 18 out of 24 students who passed a test, and Class B has 21 out of 28 who passed. Which class has the higher pass rate?",
+    "back": "Both ratios simplify to the same value, 3 out of 4, or 75 percent, so the two classes actually have identical pass rates despite having different total numbers of students. This shows why comparing rates as simplified ratios or percents is more meaningful than comparing raw counts."
+  },
+  {
+    "id": 71,
+    "domain": "number_sense_and_numeration",
+    "front": "A car travels 240 kilometres in 3 hours at a constant speed. What is its unit rate in kilometres per hour?",
+    "back": "Divide the distance by the time, 240 kilometres divided by 3 hours, to find the unit rate. This gives 80 kilometres per hour."
+  },
+  {
+    "id": 72,
+    "domain": "number_sense_and_numeration",
+    "front": "Why is a unit rate, such as price per item, useful for comparing two different sized packages of the same product?",
+    "back": "A unit rate expresses the cost or quantity for a single unit, allowing a direct comparison regardless of the total package size. Without converting to a unit rate, comparing a 12 pack and a 20 pack directly on total price alone would not reveal which package is the better value."
+  },
+  {
+    "id": 73,
+    "domain": "number_sense_and_numeration",
+    "front": "In the proportion 3 over 5 equals x over 20, solve for x using cross multiplication.",
+    "back": "Cross multiplying gives 3 times 20 equals 5 times x, or 60 equals 5x. Dividing both sides by 5 gives x equals 12."
+  },
+  {
+    "id": 74,
+    "domain": "number_sense_and_numeration",
+    "front": "What error does a double number line help prevent when teaching proportional reasoning?",
+    "back": "A double number line visually aligns two related quantities at matching multiplicative intervals, making the multiplicative scale factor between them obvious. This helps prevent the additive error where students add the same fixed amount to both quantities instead of multiplying by the same scale factor."
+  },
+  {
+    "id": 75,
+    "domain": "number_sense_and_numeration",
+    "front": "Evaluate the expression 12 divided by 4 times 3, and explain why the answer is not found by doing multiplication first.",
+    "back": "Division and multiplication are performed together from left to right, not with multiplication automatically taking priority. Reading left to right, 12 divided by 4 equals 3 first, then 3 times 3 equals 9."
+  },
+  {
+    "id": 76,
+    "domain": "number_sense_and_numeration",
+    "front": "Evaluate 2 times the quantity 3 plus 5, all squared, minus 10.",
+    "back": "First evaluate the bracket, 3 plus 5, which equals 8. Then apply the exponent, 8 squared, which equals 64, multiply by 2 to get 128, then subtract 10 to reach a final answer of 118."
+  },
+  {
+    "id": 77,
+    "domain": "number_sense_and_numeration",
+    "front": "Why is order of operations described as a convention rather than a mathematical law discovered through observation?",
+    "back": "Order of operations is an agreed upon set of rules adopted so that everyone evaluating the same written expression arrives at the identical answer. Without this shared convention, the same expression could be read and calculated in several different, equally valid ways, producing different results."
+  },
+  {
+    "id": 78,
+    "domain": "number_sense_and_numeration",
+    "front": "What is the value of 10 cubed?",
+    "back": "10 cubed means 10 multiplied by itself three times, or 10 times 10 times 10. This equals 1,000."
+  },
+  {
+    "id": 79,
+    "domain": "number_sense_and_numeration",
+    "front": "How is squaring a number connected to the area of a square in geometry?",
+    "back": "The area of a square is found by multiplying its side length by itself, which is exactly what squaring a number means. A square with a side length of 6 units has an area of 6 squared, or 36 square units."
+  },
+  {
+    "id": 80,
+    "domain": "number_sense_and_numeration",
+    "front": "How is cubing a number connected to the volume of a cube in geometry?",
+    "back": "The volume of a cube is found by multiplying its side length by itself three times, which is exactly what cubing a number means. A cube with a side length of 4 units has a volume of 4 cubed, or 64 cubic units."
+  },
+  {
+    "id": 81,
+    "domain": "number_sense_and_numeration",
+    "front": "A student believes 2 to the power of 4 equals 2 to the power of 2 times 2, which they calculate as 4 times 2, giving 8. Where does this reasoning break down?",
+    "back": "The error is in the decomposition itself, not the final multiplication. Breaking 2 to the power of 4 into 2 to the power of 2 times 2 is invalid, since the exponents on the right only add to 3, not 4. The correct decomposition is 2 to the power of 2 times 2 to the power of 2, which is 4 times 4, giving the correct value of 16."
+  },
+  {
+    "id": 82,
+    "domain": "number_sense_and_numeration",
+    "front": "What estimation strategy would you use to quickly estimate 48 times 52 without a calculator?",
+    "back": "Using compatible numbers, 48 can be rounded to 50 and 52 can be rounded to 50, giving an easy estimate of 50 times 50, which equals 2,500. The actual product, 2,496, is very close to this estimate."
+  },
+  {
+    "id": 83,
+    "domain": "number_sense_and_numeration",
+    "front": "Round 2.5 to the nearest whole number, and explain which direction the rule sends it.",
+    "back": "The digit immediately after the decimal point is 5, which by the standard rounding rule rounds up. So 2.5 rounds to 3."
+  },
+  {
+    "id": 84,
+    "domain": "number_sense_and_numeration",
+    "front": "A recipe calls for 3 quarters of a cup of sugar, and a baker wants to make 5 batches. How much sugar is needed in total?",
+    "back": "Multiply 3 quarters by 5, giving 15 quarters of a cup, since whole number multiplication of a fraction repeats that fraction the given number of times. Converting to a mixed number, 15 quarters equals 3 and 3 quarters cups of sugar."
+  },
+  {
+    "id": 85,
+    "domain": "number_sense_and_numeration",
+    "front": "Explain the difference between an estimate and an exact answer, and when an estimate alone is an acceptable final answer.",
+    "back": "An estimate is an approximate value close enough to be useful for a given purpose, while an exact answer is the precise calculated value. An estimate alone is acceptable when the context only requires a reasonable sense of scale, such as quickly checking whether a bill total looks correct, rather than a precise financial calculation."
+  },
+  {
+    "id": 86,
+    "domain": "number_sense_and_numeration",
+    "front": "What is a common student error when converting a fraction like 3 eighths directly to a percent without going through a decimal first?",
+    "back": "Some students incorrectly assume the numerator and denominator can be scaled to a denominator of 100 by simple mental estimation rather than actual division, leading to an inaccurate percent. The reliable method is to divide the numerator by the denominator to get a decimal, 0.375, then multiply by 100 to correctly get 37.5 percent."
+  },
+  {
+    "id": 87,
+    "domain": "number_sense_and_numeration",
+    "front": "Why do teacher candidates need to be comfortable explaining, not just performing, the standard fraction and integer algorithms?",
+    "back": "A teacher's job is to help students understand why a procedure works, not simply demonstrate the steps, since students who only memorize steps without understanding are more likely to make errors on unfamiliar problems. Being able to explain the reasoning also allows a teacher to correctly diagnose exactly where a student's thinking has gone wrong."
+  },
+  {
+    "id": 88,
+    "domain": "number_sense_and_numeration",
+    "front": "Compare negative 3 fourths and negative 1 half, and explain which is greater.",
+    "back": "Since these are negative numbers, the value closer to zero is greater. Negative 1 half is closer to zero than negative 3 fourths, so negative 1 half is the greater value."
+  },
+  {
+    "id": 89,
+    "domain": "number_sense_and_numeration",
+    "front": "A recipe ratio is written as 5 to 8. Express this ratio as a fraction and explain what the fraction represents.",
+    "back": "The ratio can be written as the fraction 5 over 8, representing the first quantity as a part relative to the second quantity. Unlike a part to whole fraction, this ratio compares two separate quantities to each other, though the notation looks the same."
+  },
+  {
+    "id": 90,
+    "domain": "number_sense_and_numeration",
+    "front": "What is the correct order of operations for evaluating 5 squared minus 3 times 2 plus 1?",
+    "back": "Evaluate the exponent first, 5 squared, which equals 25. Then multiply, 3 times 2, which equals 6, giving 25 minus 6 plus 1, and reading left to right for the addition and subtraction gives a final answer of 20."
+  },
+  {
+    "id": 91,
+    "domain": "number_sense_and_numeration",
+    "front": "Why is it incorrect to say that a percent greater than 100 is impossible?",
+    "back": "A percent greater than 100 simply represents a quantity that is more than the whole being compared to, which is entirely possible in contexts like growth or increase. For example, if a population doubles, the new population is 200 percent of the original population."
+  },
+  {
+    "id": 92,
+    "domain": "number_sense_and_numeration",
+    "front": "What visual model is commonly used to show why a ratio table preserves a constant multiplicative relationship between two quantities?",
+    "back": "A ratio table lists paired values in columns where each column is generated by multiplying both the original quantities by the same scale factor. Seeing the pattern of consistent multiplication across each column, rather than addition, reinforces that the relationship between the two quantities is multiplicative, not additive."
+  },
+  {
+    "id": 93,
+    "domain": "number_sense_and_numeration",
+    "front": "Divide 5 by 1 fourth, and explain what the division is actually asking.",
+    "back": "This division asks how many groups of 1 fourth fit inside 5 wholes. Since each whole contains 4 fourths, 5 wholes contain 20 fourths, so 5 divided by 1 fourth equals 20."
+  },
+  {
+    "id": 94,
+    "domain": "number_sense_and_numeration",
+    "front": "A student rounds 149 to the nearest hundred and gets 200 by mistakenly looking at the ones digit instead of the tens digit. What is the correct rounded value?",
+    "back": "To round to the nearest hundred, the tens digit must be examined, not the ones digit. The tens digit in 149 is 4, which is less than 5, so the correct rounded value is 100."
+  },
+  {
+    "id": 95,
+    "domain": "number_sense_and_numeration",
+    "front": "Explain why 0.3 multiplied by 0.3 does not equal 0.9.",
+    "back": "Multiplying decimals less than 1 by each other produces a smaller result, not a result close to simple addition. 0.3 times 0.3 actually equals 0.09, since 3 tenths of 3 tenths is a much smaller portion than adding the two values together."
+  },
+  {
+    "id": 96,
+    "domain": "number_sense_and_numeration",
+    "front": "A student says 100 percent of a number is always the largest possible percent value that number can have. Is this statement true?",
+    "back": "This statement is false, since percents can exceed 100 to represent an amount larger than the original whole. 100 percent represents the whole amount unchanged, but a value like 150 percent represents one and a half times that whole."
+  },
+  {
+    "id": 97,
+    "domain": "number_sense_and_numeration",
+    "front": "What is the first step a teacher should take when a student makes a computational error, before assuming the student simply does not know the procedure?",
+    "back": "A teacher should ask the student to explain their reasoning aloud or in writing, since this often reveals a specific, identifiable misconception rather than a random mistake. Diagnosing the exact misconception allows the teacher to target instruction precisely instead of simply reteaching the entire procedure from scratch."
+  },
+  {
+    "id": 98,
+    "domain": "number_sense_and_numeration",
+    "front": "Why does the MPT test the ability to identify student misconceptions, not just the ability to solve math problems correctly?",
+    "back": "Teacher candidates must be able to teach elementary and junior students, which requires recognizing common error patterns and understanding their underlying causes, not just personally computing correct answers. Being able to solve a problem correctly does not automatically mean a candidate can diagnose why a student arrived at a wrong answer."
+  },
+  {
+    "id": 99,
+    "domain": "number_sense_and_numeration",
+    "front": "A student divides 6 by 2 thirds and gets 4 by multiplying straight across instead of using the reciprocal. What is the correct answer?",
+    "back": "The correct method flips the second fraction to its reciprocal before multiplying, giving 6 times 3 halves, which equals 18 halves, or 9. Multiplying straight across without flipping the divisor produces division by the wrong quantity."
+  },
+  {
+    "id": 100,
+    "domain": "number_sense_and_numeration",
+    "front": "Explain why 25 percent, 1 quarter, and 0.25 all represent the same value.",
+    "back": "25 percent means 25 out of 100, which simplifies to the fraction 1 quarter, and dividing 1 by 4 gives the decimal 0.25. All three notations describe the identical portion of a whole, just written in different forms."
+  },
+  {
+    "id": 101,
+    "domain": "algebra_and_patterning",
+    "front": "What is the core of a repeating pattern?",
+    "back": "The core is the smallest chunk of a pattern that, when copied over and over, recreates the whole sequence. For example, in red, blue, blue, red, blue, blue, the core is red, blue, blue, with a length of three."
+  },
+  {
+    "id": 102,
+    "domain": "algebra_and_patterning",
+    "front": "In the repeating pattern A, A, B, A, A, B, A, A, B, what mistake do students commonly make when naming the core?",
+    "back": "Students often say the core is A, B and miss the doubled A. The true core is A, A, B, since that is the smallest unit that repeats identically each time."
+  },
+  {
+    "id": 103,
+    "domain": "algebra_and_patterning",
+    "front": "How do you find the 20th term of a repeating pattern with a core length of 3, without listing all 20 terms?",
+    "back": "Divide 20 by 3, which gives 6 remainder 2. The pattern completes 6 full cores and then lands on the second item of the core. This remainder method connects patterning to division."
+  },
+  {
+    "id": 104,
+    "domain": "algebra_and_patterning",
+    "front": "What is a growing pattern?",
+    "back": "A growing pattern increases by a consistent amount or rule from one term to the next. For example, 2, 5, 8, 11, 14 grows by adding 3 each time."
+  },
+  {
+    "id": 105,
+    "domain": "algebra_and_patterning",
+    "front": "What is the common difference in a linear pattern?",
+    "back": "The common difference is the constant amount added or subtracted between consecutive terms. In 50, 44, 38, 32, the common difference is negative 6, since each term decreases by 6."
+  },
+  {
+    "id": 106,
+    "domain": "algebra_and_patterning",
+    "front": "How can you tell that a pattern is not linear just by looking at its differences?",
+    "back": "Find the difference between each pair of consecutive terms. If those first differences are not constant, the pattern is not linear. In 1, 2, 4, 7, 11, the differences are 1, 2, 3, 4, which are themselves increasing, so the pattern is not linear."
+  },
+  {
+    "id": 107,
+    "domain": "algebra_and_patterning",
+    "front": "Find the general term rule for the pattern 2, 5, 8, 11, 14.",
+    "back": "The rule is 3 times n, minus 1, where n is the term number. Checking n equals 1 gives 3 minus 1, which equals 2, matching the first term."
+  },
+  {
+    "id": 108,
+    "domain": "algebra_and_patterning",
+    "front": "A table shows term 1 gives 7, term 2 gives 10, term 3 gives 13, term 4 gives 16. What is the rule connecting the term number to the value?",
+    "back": "The rule is 3 times n, plus 4. The value increases by 3 each time, so the term number is multiplied by 3, and testing n equals 1 shows 4 must be added to reach 7."
+  },
+  {
+    "id": 109,
+    "domain": "algebra_and_patterning",
+    "front": "What two steps do teachers use to find a linear rule from a table of values?",
+    "back": "First find the constant rate of change between consecutive terms, which becomes the number multiplied by the term number. Second, adjust by finding the value needed when the term number is zero or by working backward from the first term."
+  },
+  {
+    "id": 110,
+    "domain": "algebra_and_patterning",
+    "front": "Translate the verbal rule 'start with 5 and add 2 for every step' into a symbolic rule using n for the step number.",
+    "back": "The symbolic rule is 2n plus 3. The 2 represents the constant amount added each step, and testing n equal to 1 gives 2 times 1 plus 3, which equals 5, matching the starting value at the first term."
+  },
+  {
+    "id": 111,
+    "domain": "algebra_and_patterning",
+    "front": "What is a variable in algebra?",
+    "back": "A variable is a letter or symbol that stands in for a number that can change or is not yet known. Common examples in elementary and junior math are n and x, or a box used as a placeholder in earlier grades."
+  },
+  {
+    "id": 112,
+    "domain": "algebra_and_patterning",
+    "front": "What is the difference between an algebraic expression and an equation?",
+    "back": "An expression, like 5n minus 3, has no equals sign and represents a value depending on n. An equation, like 5n minus 3 equals 12, states two expressions are equal and can be solved for the unknown."
+  },
+  {
+    "id": 113,
+    "domain": "algebra_and_patterning",
+    "front": "In the expression 4x plus 7, identify the coefficient, the constant, and the number of terms.",
+    "back": "The coefficient is 4, the number multiplied by the variable x. The constant is 7, the standalone number. The expression has two terms, 4x and 7, separated by addition."
+  },
+  {
+    "id": 114,
+    "domain": "algebra_and_patterning",
+    "front": "What does it mean to evaluate an algebraic expression?",
+    "back": "Evaluating means replacing each variable with a specific numeric value and then simplifying the result using the correct order of operations. It turns a general expression into one specific number."
+  },
+  {
+    "id": 115,
+    "domain": "algebra_and_patterning",
+    "front": "Evaluate 3x squared minus 2x plus 5 when x equals 4.",
+    "back": "Apply order of operations: 4 squared is 16 first, giving 3 times 16, minus 8, plus 5. That is 48 minus 8 plus 5, which equals 45."
+  },
+  {
+    "id": 116,
+    "domain": "algebra_and_patterning",
+    "front": "A student evaluates 3 times 4 squared by computing 12 squared instead of 3 times 16. What error did they make?",
+    "back": "They multiplied before applying the exponent instead of following order of operations. The exponent applies only to the 4, so 4 squared must be evaluated first, then multiplied by 3."
+  },
+  {
+    "id": 117,
+    "domain": "algebra_and_patterning",
+    "front": "Why does squaring a negative number give a different sign result than cubing it?",
+    "back": "Squaring a negative number multiplies it by itself twice, and two negative signs cancel to give a positive result. Cubing multiplies it by itself three times, so the negative sign remains in the final answer."
+  },
+  {
+    "id": 118,
+    "domain": "algebra_and_patterning",
+    "front": "A school trip costs C equals 15 times the number of students, plus 200 for the bus. Find the total cost for 30 students.",
+    "back": "Substitute 30 for the number of students: 15 times 30 plus 200. That is 450 plus 200, which equals 650 dollars total."
+  },
+  {
+    "id": 119,
+    "domain": "algebra_and_patterning",
+    "front": "State the distributive property in symbols.",
+    "back": "The distributive property states that a times the quantity b plus c equals a times b, plus a times c. Multiplying a sum by a number gives the same result as multiplying each addend separately and adding."
+  },
+  {
+    "id": 120,
+    "domain": "algebra_and_patterning",
+    "front": "Expand 4 times the quantity x plus 5 using the distributive property.",
+    "back": "Multiply 4 by each term inside the brackets: 4 times x gives 4x, and 4 times 5 gives 20. The expanded expression is 4x plus 20."
+  },
+  {
+    "id": 121,
+    "domain": "algebra_and_patterning",
+    "front": "Expand negative 2 times the quantity x minus 3. What is the most common error students make here?",
+    "back": "The correct expansion is negative 2x plus 6, since a negative sign outside the bracket flips the sign of every term inside. The common error is writing negative 2x minus 6, forgetting to flip the second sign."
+  },
+  {
+    "id": 122,
+    "domain": "algebra_and_patterning",
+    "front": "What makes two terms 'like terms' that can be combined?",
+    "back": "Like terms share the exact same variable raised to the exact same power. For example, 3x and 7x are like terms, but 4x and 4x squared are not, because the exponents differ."
+  },
+  {
+    "id": 123,
+    "domain": "algebra_and_patterning",
+    "front": "Simplify 3x plus 5 plus 7x minus 2 by combining like terms.",
+    "back": "Combine the x terms: 3x plus 7x equals 10x. Combine the constants: 5 minus 2 equals 3. The simplified expression is 10x plus 3."
+  },
+  {
+    "id": 124,
+    "domain": "algebra_and_patterning",
+    "front": "Why can 4x and 4x squared never be combined into one term?",
+    "back": "They are not like terms because the variable x has different exponents, one raised to the power 1 and the other to the power 2. Combining them would treat two different quantities as if they were the same."
+  },
+  {
+    "id": 125,
+    "domain": "algebra_and_patterning",
+    "front": "What does it mean for an equation to be 'balanced', and why does that matter when solving?",
+    "back": "A balanced equation has both sides equal in value at all times, like a balance scale. Whatever operation is performed on one side must also be performed on the other side, or the equation stops being true."
+  },
+  {
+    "id": 126,
+    "domain": "algebra_and_patterning",
+    "front": "Solve x plus 9 equals 23 using an inverse operation.",
+    "back": "The inverse of adding 9 is subtracting 9. Subtracting 9 from both sides gives x equals 14."
+  },
+  {
+    "id": 127,
+    "domain": "algebra_and_patterning",
+    "front": "Solve 6x equals 42 using an inverse operation.",
+    "back": "The inverse of multiplying by 6 is dividing by 6. Dividing both sides by 6 gives x equals 7."
+  },
+  {
+    "id": 128,
+    "domain": "algebra_and_patterning",
+    "front": "Solve the two-step equation 3x plus 5 equals 20, and explain the order of the steps.",
+    "back": "First undo the addition by subtracting 5 from both sides, giving 3x equals 15. Then undo the multiplication by dividing both sides by 3, giving x equals 5. This reverses the order the expression was originally built in."
+  },
+  {
+    "id": 129,
+    "domain": "algebra_and_patterning",
+    "front": "How do you check that a solved equation is correct?",
+    "back": "Substitute the found value back into the original equation and simplify both sides. If both sides give the same number, the solution is confirmed correct."
+  },
+  {
+    "id": 130,
+    "domain": "algebra_and_patterning",
+    "front": "Solve 2 times the quantity x plus 4 equals 18.",
+    "back": "Expand the brackets first: 2x plus 8 equals 18. Subtract 8 from both sides to get 2x equals 10, then divide by 2 to get x equals 5."
+  },
+  {
+    "id": 131,
+    "domain": "algebra_and_patterning",
+    "front": "Name three ways a linear relationship between two quantities can be represented.",
+    "back": "A linear relationship can be shown as a table of values, as a graph on a coordinate grid, and as an algebraic equation. All three representations describe the exact same relationship in different forms."
+  },
+  {
+    "id": 132,
+    "domain": "algebra_and_patterning",
+    "front": "In a table of values, how can you tell a relationship is linear?",
+    "back": "A relationship is linear if the output values change by the same constant amount every time the input increases by a fixed amount. If the differences between outputs are not constant, the relationship is not linear."
+  },
+  {
+    "id": 133,
+    "domain": "algebra_and_patterning",
+    "front": "What does the steepness of a line on a graph represent in a linear relationship?",
+    "back": "The steepness, or slope, represents the rate of change between the two quantities. A positive slope rises left to right, a negative slope falls left to right, and a slope of zero is a horizontal line."
+  },
+  {
+    "id": 134,
+    "domain": "algebra_and_patterning",
+    "front": "In the equation y equals mx plus b, what do m and b represent?",
+    "back": "The letter m represents the rate of change, how much y increases for every increase of one in x. The letter b represents the initial value, the value of y when x is zero, also called the y-intercept."
+  },
+  {
+    "id": 135,
+    "domain": "algebra_and_patterning",
+    "front": "A plumber charges a 60 dollar flat fee plus 25 dollars per hour. Write an equation for the cost, and find the cost for 3 hours.",
+    "back": "The equation is cost equals 25 times hours, plus 60. For 3 hours, cost equals 25 times 3, plus 60, which is 75 plus 60, or 135 dollars."
+  },
+  {
+    "id": 136,
+    "domain": "algebra_and_patterning",
+    "front": "What operation does the phrase 'the sum of' usually signal in a word problem?",
+    "back": "It signals addition. For example, 'the sum of a number and 8' translates to n plus 8."
+  },
+  {
+    "id": 137,
+    "domain": "algebra_and_patterning",
+    "front": "Translate '5 less than a number' into an algebraic expression, and explain the common mistake students make.",
+    "back": "The correct translation is n minus 5. Students often reverse the order and write 5 minus n, but 'less than' means the number is reduced by 5, so the number must come first."
+  },
+  {
+    "id": 138,
+    "domain": "algebra_and_patterning",
+    "front": "What operation does the word 'per' usually signal in a word problem?",
+    "back": "It signals division, since 'per' describes a rate shared or divided among units. For example, 'dollars per hour' involves dividing total dollars by total hours."
+  },
+  {
+    "id": 139,
+    "domain": "algebra_and_patterning",
+    "front": "A fundraiser needs at least 400 dollars from ticket sales at 8 dollars each plus 60 dollars already collected. Write and solve the inequality for the number of tickets, t.",
+    "back": "The inequality is 8t plus 60 is greater than or equal to 400. Solving gives 8t is greater than or equal to 340, so t is greater than or equal to 42.5. Since tickets are whole, at least 43 must be sold."
+  },
+  {
+    "id": 140,
+    "domain": "algebra_and_patterning",
+    "front": "Why must the answer of 42.5 tickets be rounded up to 43 rather than rounded to the nearest whole number?",
+    "back": "Rounding to the nearest whole number would give 43 by coincidence here, but the real reason is that 42.5 tickets is not enough to reach the goal, so the number must round up to fully satisfy the inequality, not simply round mathematically."
+  },
+  {
+    "id": 141,
+    "domain": "algebra_and_patterning",
+    "front": "What is an inequality, and how is it different from an equation?",
+    "back": "An inequality compares two expressions using less than, greater than, less than or equal to, or greater than or equal to, instead of an equals sign. It describes a range of possible values rather than one exact value."
+  },
+  {
+    "id": 142,
+    "domain": "algebra_and_patterning",
+    "front": "Solve negative 3x is greater than 12, and explain what happens to the inequality symbol.",
+    "back": "Dividing both sides by negative 3 requires flipping the inequality symbol, giving x is less than negative 4. Multiplying or dividing by a negative number always reverses the direction of an inequality."
+  },
+  {
+    "id": 143,
+    "domain": "algebra_and_patterning",
+    "front": "Give a simple numeric check that proves why dividing by a negative number flips an inequality.",
+    "back": "Start with 2 is less than 3, a true statement. Dividing both sides by negative 1 without flipping would give negative 2 is less than negative 3, which is false. Flipping the symbol to negative 2 is greater than negative 3 keeps the statement true."
+  },
+  {
+    "id": 144,
+    "domain": "algebra_and_patterning",
+    "front": "On a number line, what is the difference between an open circle and a closed circle when graphing an inequality?",
+    "back": "An open circle shows the boundary value is not included, used for strictly less than or greater than. A closed, filled circle shows the boundary value is included, used for less than or equal to or greater than or equal to."
+  },
+  {
+    "id": 145,
+    "domain": "algebra_and_patterning",
+    "front": "What is the most persistent misconception students have about the equals sign?",
+    "back": "Many students see the equals sign operationally, as a signal that the answer comes next, rather than relationally, as a statement that both sides hold the same value. This breaks down for equations like 3 plus 4 equals 2 plus 5."
+  },
+  {
+    "id": 146,
+    "domain": "algebra_and_patterning",
+    "front": "Why does an operational view of the equals sign cause serious problems once students reach algebra?",
+    "back": "Solving equations depends on treating both sides as balanced and equal at every step. A student who sees the equals sign only as 'answer comes next' cannot understand why an operation must be applied to both sides at once."
+  },
+  {
+    "id": 147,
+    "domain": "algebra_and_patterning",
+    "front": "What is the 'fruit salad' error in algebra?",
+    "back": "It is the mistake of treating a variable as a label for an object rather than an unknown quantity, such as reading 3a plus 2b as three apples and two bananas. This causes students to wrongly combine unlike terms, like turning 3a plus 2b into 5ab."
+  },
+  {
+    "id": 148,
+    "domain": "algebra_and_patterning",
+    "front": "A student claims the quantity x plus 3, squared, equals x squared plus 9. What misconception is this, and why is it wrong?",
+    "back": "This is an overgeneralization of the distributive property, incorrectly distributing an exponent across addition. Squaring a binomial requires multiplying it by itself and collecting all resulting terms, not squaring each term separately."
+  },
+  {
+    "id": 149,
+    "domain": "algebra_and_patterning",
+    "front": "Why might a student resist writing a multiplicative rule for a growing pattern, even when it is more efficient?",
+    "back": "Students often assume that because a pattern grows, the rule must only involve repeated addition. They may not yet see that repeated addition and multiplication describe the exact same growing relationship in two different forms."
+  },
+  {
+    "id": 150,
+    "domain": "algebra_and_patterning",
+    "front": "Why is it useful for a teacher candidate to be able to name the exact misconception behind a wrong student answer, not just correct it?",
+    "back": "Naming the specific misconception, such as an equals sign error or a fruit salad error, allows a teacher to address the actual root cause of the mistake. Simply giving the right answer does not fix the underlying misunderstanding that will keep causing errors."
+  },
+  {
+    "id": 151,
+    "domain": "algebra_and_patterning",
+    "front": "How do you extend a repeating pattern backward instead of forward?",
+    "back": "Identify the core of the pattern and its starting point, then apply the reverse order of the core going in the opposite direction. This works the same way as extending forward, just tracing the sequence back toward earlier positions."
+  },
+  {
+    "id": 152,
+    "domain": "algebra_and_patterning",
+    "front": "What is the key difference between reading a repeating pattern and reading a growing pattern?",
+    "back": "A repeating pattern uses the same fixed core over and over with no change in value. A growing pattern changes by a consistent amount or rule from one term to the next, so no two terms are ever identical."
+  },
+  {
+    "id": 153,
+    "domain": "algebra_and_patterning",
+    "front": "A pattern shows first differences of 1, 2, 3, 4 between consecutive terms. What does this tell you about the pattern?",
+    "back": "Since the first differences are not constant but are themselves increasing steadily, the pattern is not linear. This is sometimes called a second-difference pattern, and it grows faster than a linear pattern."
+  },
+  {
+    "id": 154,
+    "domain": "algebra_and_patterning",
+    "front": "What is the purpose of testing n equals 1 after finding a pattern rule?",
+    "back": "Testing n equals 1 checks that the rule actually produces the correct first term of the pattern. If it does not match, the rule needs to be adjusted before it can be trusted for other term numbers."
+  },
+  {
+    "id": 155,
+    "domain": "algebra_and_patterning",
+    "front": "Why is it important to be able to translate between word-based pattern rules and symbolic rules?",
+    "back": "Real assessment items often present a pattern rule in words, in a table, or symbolically, and expect a candidate to move between all three forms. Fluency in translation, not just calculation, is what is actually being tested."
+  },
+  {
+    "id": 156,
+    "domain": "algebra_and_patterning",
+    "front": "Define 'term' in the context of an algebraic expression.",
+    "back": "A term is one individual piece of an expression, separated from other pieces by addition or subtraction. In 4x plus 7, there are two terms, 4x and 7."
+  },
+  {
+    "id": 157,
+    "domain": "algebra_and_patterning",
+    "front": "Why is understanding precise algebra vocabulary, like coefficient, constant, and term, important beyond just passing a test?",
+    "back": "Precise vocabulary lets a teacher clearly explain a student's work and pinpoint exactly where an error occurred. Vague language makes it much harder to diagnose whether a mistake is in the coefficient, the constant, or the operation."
+  },
+  {
+    "id": 158,
+    "domain": "algebra_and_patterning",
+    "front": "What order of operations rule most often gets broken during substitution into an expression with an exponent?",
+    "back": "Exponents must be applied before multiplication in order of operations. A common error is multiplying the coefficient into the base before applying the exponent, which changes the value being squared or cubed."
+  },
+  {
+    "id": 159,
+    "domain": "algebra_and_patterning",
+    "front": "Why does a formula like C equals 15 times students, plus 200 count as a real-world use of substitution?",
+    "back": "Substituting an actual number of students into the formula produces the total cost for a specific situation. This shows how algebraic expressions model real quantities, not just abstract symbols."
+  },
+  {
+    "id": 160,
+    "domain": "algebra_and_patterning",
+    "front": "How does the distributive property connect to whole number multiplication strategies taught in earlier grades?",
+    "back": "It generalizes the same idea used to break apart products like 6 times 14 into 6 times 10 plus 6 times 4. The distributive property applies that same break-apart-and-add idea to expressions with variables."
+  },
+  {
+    "id": 161,
+    "domain": "algebra_and_patterning",
+    "front": "When expanding a bracket with a negative number outside, what must happen to every term inside?",
+    "back": "Every term inside the bracket must have its sign flipped, since multiplying by a negative number changes the sign of each product. Missing this on even one term inside the bracket produces a wrong expansion."
+  },
+  {
+    "id": 162,
+    "domain": "algebra_and_patterning",
+    "front": "What is the first step recommended when solving an equation that contains brackets, such as 2 times the quantity x plus 4 equals 18?",
+    "back": "The most common approach is to expand the brackets first using the distributive property, turning it into 2x plus 8 equals 18. An alternative is dividing both sides by the outside factor first if every term shares that factor."
+  },
+  {
+    "id": 163,
+    "domain": "algebra_and_patterning",
+    "front": "In a table representing a linear relationship, what happens to the output values when the input increases by a constant amount each time?",
+    "back": "The output values change by a constant difference as well, whenever the relationship is linear. A non-constant difference in the outputs signals that the relationship is not linear."
+  },
+  {
+    "id": 164,
+    "domain": "algebra_and_patterning",
+    "front": "What does a slope of zero look like on a graph, and what does it mean about the relationship?",
+    "back": "A slope of zero produces a perfectly horizontal line. It means the output value never changes no matter how the input changes, so there is no rate of change at all."
+  },
+  {
+    "id": 165,
+    "domain": "algebra_and_patterning",
+    "front": "Where does the value of b in y equals mx plus b appear visually on a graph?",
+    "back": "It appears as the point where the line crosses the vertical axis, called the y-intercept. This is the value of y when x equals zero."
+  },
+  {
+    "id": 166,
+    "domain": "algebra_and_patterning",
+    "front": "What operation does the phrase 'twice a number' signal, and how is it written algebraically?",
+    "back": "It signals multiplication by 2. 'Twice a number' is written as 2n, where n represents the unknown number."
+  },
+  {
+    "id": 167,
+    "domain": "algebra_and_patterning",
+    "front": "Why does the order matter when translating 'a number decreased by 5' versus '5 decreased by a number'?",
+    "back": "'A number decreased by 5' means n minus 5, since the number itself is being reduced. '5 decreased by a number' means 5 minus n, since 5 is what is being reduced. Reversing the order changes which quantity is subtracted from which."
+  },
+  {
+    "id": 168,
+    "domain": "algebra_and_patterning",
+    "front": "Why can inequalities model real situations like budgets or minimum requirements better than equations can?",
+    "back": "Inequalities describe a whole range of acceptable values rather than one single exact value. A budget limit or a minimum fundraising goal is naturally a range, such as 'at most' or 'at least,' not one fixed number."
+  },
+  {
+    "id": 169,
+    "domain": "algebra_and_patterning",
+    "front": "What does an arrow on a number line inequality graph indicate?",
+    "back": "The arrow extends from the boundary circle in the direction of all the values that satisfy the inequality. It shows the solution continues infinitely in that direction, not just at the marked point."
+  },
+  {
+    "id": 170,
+    "domain": "algebra_and_patterning",
+    "front": "Why do some students reject the true statement 3 plus 4 equals 2 plus 5 as incorrect?",
+    "back": "They expect the equals sign to be followed immediately by a single computed answer, not another expression. This reveals an operational rather than relational understanding of the equals sign."
+  },
+  {
+    "id": 171,
+    "domain": "algebra_and_patterning",
+    "front": "How would a fruit salad misconception show up if a student tried to simplify 5x plus 3y?",
+    "back": "A student with this misconception might try to combine the terms into something like 8xy, treating x and y as if they were objects that could merge. In reality, 5x plus 3y cannot be simplified further because x and y are different unknown quantities, not like terms."
+  },
+  {
+    "id": 172,
+    "domain": "algebra_and_patterning",
+    "front": "Why is full binomial expansion, like expanding the quantity x plus 3 squared, generally beyond the elementary and junior curriculum?",
+    "back": "It requires multiplying a binomial by itself and collecting four separate resulting terms, a more advanced skill than the linear expressions typically taught at this level. Teacher candidates mainly need it to recognize and correct a student who attempts it incorrectly, not to teach it as a core skill."
+  },
+  {
+    "id": 173,
+    "domain": "algebra_and_patterning",
+    "front": "Give an example of a growing pattern where the rule is easier to express with multiplication than repeated addition.",
+    "back": "The pattern 4, 8, 12, 16, 20 can be described as 'add 4 each time,' but it is more efficiently expressed as 'multiply the term number by 4.' The multiplicative rule directly gives any term without adding step by step."
+  },
+  {
+    "id": 174,
+    "domain": "algebra_and_patterning",
+    "front": "What real-world quantity does the rate of change, m, represent in a cost equation like cost equals 25 times hours plus 60?",
+    "back": "It represents the hourly rate, the amount the cost increases for every additional hour worked. In this case, m equals 25 dollars per hour."
+  },
+  {
+    "id": 175,
+    "domain": "algebra_and_patterning",
+    "front": "What real-world quantity does the initial value, b, represent in a cost equation like cost equals 25 times hours plus 60?",
+    "back": "It represents the flat starting cost before any hours are added, sometimes called a base fee or fixed cost. In this case, b equals 60 dollars, the cost even at zero hours."
+  },
+  {
+    "id": 176,
+    "domain": "algebra_and_patterning",
+    "front": "Why should a teacher candidate check an equation solution by substitution rather than just trust the algebra steps?",
+    "back": "Substitution provides an independent verification that catches arithmetic slips made during the solving process. Even a correctly applied method can contain a small calculation error that only shows up when checked."
+  },
+  {
+    "id": 177,
+    "domain": "algebra_and_patterning",
+    "front": "How does modular or remainder reasoning in patterning connect to the number sense strand?",
+    "back": "Finding a term's position within a repeating core uses division with a remainder, the exact same skill used when dividing whole numbers in the number sense strand. This shows how the algebra strand builds directly on earlier arithmetic skills."
+  },
+  {
+    "id": 178,
+    "domain": "algebra_and_patterning",
+    "front": "Why is it useful to check a pattern rule against more than just the first term?",
+    "back": "A rule that matches only the first term could still be wrong for later terms if there was a calculation error. Testing at least two terms confirms the rule is consistent and reliable across the whole pattern."
+  },
+  {
+    "id": 179,
+    "domain": "algebra_and_patterning",
+    "front": "A student says the pattern rule for 3, 6, 9, 12 must be 'add 3 each time' and refuses to write it as 3 times n. What should a teacher point out?",
+    "back": "The teacher should show that adding 3 repeatedly and multiplying the term number by 3 describe the exact same pattern, just in two different forms. The multiplicative rule is more powerful because it finds any term directly, without adding step by step from the start."
+  },
+  {
+    "id": 180,
+    "domain": "algebra_and_patterning",
+    "front": "Why is it important to distinguish an inequality solution set from a single equation solution when interpreting a real-world problem?",
+    "back": "An equation gives one exact value that satisfies the situation, while an inequality gives a whole range of acceptable values, such as everything at or above a minimum. Treating a minimum requirement as a single fixed number instead of a range can lead to an answer that technically fails to meet the real constraint."
+  },
+  {
+    "id": 181,
+    "domain": "data_literacy_and_probability",
+    "front": "What is a census?",
+    "back": "A census is a data collection method that gathers information from every member of a population, not just a subset. It gives complete information but can be costly and time-consuming for large populations, so it is only practical when the population is small or the stakes of missing members are high."
+  },
+  {
+    "id": 182,
+    "domain": "data_literacy_and_probability",
+    "front": "What is a sample, and why does the method of choosing one matter?",
+    "back": "A sample is a smaller group selected from a population to represent the whole. If the sample is chosen poorly it becomes biased, meaning it systematically favours certain outcomes, so conclusions drawn from it will not reflect the true population."
+  },
+  {
+    "id": 183,
+    "domain": "data_literacy_and_probability",
+    "front": "Define a biased sample and give an example.",
+    "back": "A biased sample systematically overrepresents or underrepresents part of a population, producing misleading conclusions. For example, surveying only people leaving a gym about exercise habits would overstate how often the general population exercises."
+  },
+  {
+    "id": 184,
+    "domain": "data_literacy_and_probability",
+    "front": "What is primary data?",
+    "back": "Primary data is information a person collects firsthand through their own survey, experiment, or observation. The collector controls the exact question wording and method, but it takes more time and effort to gather than using an existing source."
+  },
+  {
+    "id": 185,
+    "domain": "data_literacy_and_probability",
+    "front": "What is secondary data?",
+    "back": "Secondary data is information originally collected by someone else, such as a government report or published study, that a new user reuses. It is faster to access than collecting new data, but its reliability, currency, and possible bias must be evaluated before it is trusted."
+  },
+  {
+    "id": 186,
+    "domain": "data_literacy_and_probability",
+    "front": "How does an experiment differ from an observation as a data collection method?",
+    "back": "An experiment involves deliberately manipulating a variable and measuring its effect. An observation involves watching and recording behaviour or events as they naturally occur, without the collector interfering with or changing anything."
+  },
+  {
+    "id": 187,
+    "domain": "data_literacy_and_probability",
+    "front": "What is a tally chart used for?",
+    "back": "A tally chart records data as it is collected, using marks grouped in sets of five to count occurrences of each category or value. It is especially useful during live data collection since entries can be added one at a time without redrawing the chart."
+  },
+  {
+    "id": 188,
+    "domain": "data_literacy_and_probability",
+    "front": "What is a frequency table?",
+    "back": "A frequency table organizes data into a list of values or categories alongside how many times each one occurs. It can show raw counts or relative frequencies, which express each count as a fraction, decimal, or percentage of the total."
+  },
+  {
+    "id": 189,
+    "domain": "data_literacy_and_probability",
+    "front": "What is a cumulative frequency table, and why is it useful?",
+    "back": "A cumulative frequency table adds a running total of frequencies as values increase, showing how many data points fall at or below each value. It is especially useful for finding medians and quartiles in larger datasets."
+  },
+  {
+    "id": 190,
+    "domain": "data_literacy_and_probability",
+    "front": "Why does interval width matter when grouping numerical data into class intervals?",
+    "back": "Intervals that are too narrow leave many empty or near-empty categories, hiding the overall pattern. Intervals that are too wide can hide meaningful variation, so choosing a balanced width, typically five to ten intervals, keeps the data both readable and informative."
+  },
+  {
+    "id": 191,
+    "domain": "data_literacy_and_probability",
+    "front": "When is a bar graph the appropriate choice?",
+    "back": "A bar graph is appropriate for comparing separate, unrelated categories, such as favourite sports or votes per candidate. Gaps are left between the bars to show that the categories are distinct rather than continuous."
+  },
+  {
+    "id": 192,
+    "domain": "data_literacy_and_probability",
+    "front": "What is a double bar graph used for?",
+    "back": "A double bar graph places two bars side by side for each category, allowing direct comparison between two related datasets, such as results from two different years or two different groups answering the same question."
+  },
+  {
+    "id": 193,
+    "domain": "data_literacy_and_probability",
+    "front": "When should a line graph be used instead of a bar graph?",
+    "back": "A line graph should be used for data that changes over a continuous variable, most often time, because the connecting line segments represent trends and rates of change. Using a line graph for unrelated categories falsely implies a continuous trend that does not exist."
+  },
+  {
+    "id": 194,
+    "domain": "data_literacy_and_probability",
+    "front": "What condition must be met before data can be shown in a circle graph?",
+    "back": "The categories must be parts of a single whole that sum to 100 percent, since each sector's angle is proportional to its share of that whole. Circle graphs also become hard to read once there are more than about six categories or several similarly sized sectors."
+  },
+  {
+    "id": 195,
+    "domain": "data_literacy_and_probability",
+    "front": "What is the main limitation of a pictograph?",
+    "back": "A pictograph uses repeated icons where each icon represents a fixed number of units, but a partial icon can only approximate a value between whole units. This makes pictographs visually engaging but less precise than a bar graph or frequency table."
+  },
+  {
+    "id": 196,
+    "domain": "data_literacy_and_probability",
+    "front": "What is a scatter plot used to investigate?",
+    "back": "A scatter plot displays paired numerical data as individual points on a coordinate grid to investigate whether a relationship, or correlation, exists between the two variables. Unlike a line graph, it does not connect the points in sequence."
+  },
+  {
+    "id": 197,
+    "domain": "data_literacy_and_probability",
+    "front": "How does a histogram differ from a categorical bar graph?",
+    "back": "A histogram displays continuous numerical data grouped into intervals with bars touching each other, since the data is continuous across the range. A categorical bar graph has separated bars because its categories are distinct, not continuous."
+  },
+  {
+    "id": 198,
+    "domain": "data_literacy_and_probability",
+    "front": "What is a stem-and-leaf plot, and what advantage does it have over a histogram?",
+    "back": "A stem-and-leaf plot splits each numerical value into a stem, its leading digit or digits, and a leaf, its final digit. It shows the overall shape of the distribution while preserving every individual data value, unlike a histogram, which groups values and loses that individual detail."
+  },
+  {
+    "id": 199,
+    "domain": "data_literacy_and_probability",
+    "front": "What three things should a reader check first when interpreting any graph?",
+    "back": "A reader should check the title, which states what the graph represents, the axis labels, which state what each axis measures and its units, and the scale, which shows the spacing between gridlines. Skipping these can lead to misreading the actual values shown."
+  },
+  {
+    "id": 200,
+    "domain": "data_literacy_and_probability",
+    "front": "What does a steep upward slope on a line graph indicate?",
+    "back": "A steep upward slope indicates a fast rate of increase between the two data points. A shallow slope indicates slower change, and a flat, horizontal segment indicates no change occurred over that interval."
+  },
+  {
+    "id": 201,
+    "domain": "data_literacy_and_probability",
+    "front": "Define interpolation and extrapolation, and explain which one carries more risk.",
+    "back": "Interpolation estimates a value between two known data points, while extrapolation estimates a value beyond the range of the known data. Extrapolation carries more risk because it assumes an observed trend continues past the range where it was actually measured."
+  },
+  {
+    "id": 202,
+    "domain": "data_literacy_and_probability",
+    "front": "What is a truncated axis, and why is it used to mislead readers?",
+    "back": "A truncated axis is a vertical axis that does not start at zero. It exaggerates the visual difference between bars because a small actual difference can appear enormous when the axis begins near the data's minimum rather than at zero."
+  },
+  {
+    "id": 203,
+    "domain": "data_literacy_and_probability",
+    "front": "How can inconsistent icon sizes in a pictograph mislead a reader?",
+    "back": "If icons of different sizes are used instead of repeating one fixed-size icon, a reader instinctively judges the icon's area rather than the intended count. Doubling an icon's height and width makes a doubled quantity look many times larger than it actually is."
+  },
+  {
+    "id": 204,
+    "domain": "data_literacy_and_probability",
+    "front": "What is cherry-picking in the context of a misleading line graph?",
+    "back": "Cherry-picking is showing only a narrow, selectively chosen time window of data in a line graph. It supports a particular narrative while hiding a longer trend that would tell a different, more complete story."
+  },
+  {
+    "id": 205,
+    "domain": "data_literacy_and_probability",
+    "front": "How do you calculate the mean of a dataset?",
+    "back": "The mean is calculated by summing all the data values and dividing that sum by the number of values. It is sensitive to outliers, since one extreme value can pull it noticeably away from where most of the data actually clusters."
+  },
+  {
+    "id": 206,
+    "domain": "data_literacy_and_probability",
+    "front": "How do you find the median of a dataset with an even number of values?",
+    "back": "First arrange all values in order from least to greatest. With an even number of values, the median is the mean of the two middle values, rather than a single middle value as with an odd-sized dataset."
+  },
+  {
+    "id": 207,
+    "domain": "data_literacy_and_probability",
+    "front": "Why is the median often a better measure of typical value than the mean?",
+    "back": "The median is resistant to outliers because it depends only on the middle position of ordered data, not the size of extreme values. When a dataset contains one or two unusually extreme entries, the median better represents what is typical."
+  },
+  {
+    "id": 208,
+    "domain": "data_literacy_and_probability",
+    "front": "What is the mode, and what makes it unique among the three measures of central tendency?",
+    "back": "The mode is the value or values that occur most frequently in a dataset. It is the only measure of central tendency that can be applied to categorical, non-numerical data, such as favourite colour, and a dataset can have one mode, several modes, or none."
+  },
+  {
+    "id": 209,
+    "domain": "data_literacy_and_probability",
+    "front": "How is the range of a dataset calculated, and what does it not tell you?",
+    "back": "The range is calculated as the maximum value minus the minimum value. It gives a quick sense of overall spread but says nothing about how the values are distributed between those two extremes."
+  },
+  {
+    "id": 210,
+    "domain": "data_literacy_and_probability",
+    "front": "A real estate report states the average home price using the mean, but a few mansions are included in the data. Why might the median be more informative here?",
+    "back": "The mean is inflated by the small number of very expensive mansions, pulling it far above what a typical buyer would actually pay. The median resists this distortion because it depends only on the middle-ranked value, giving a more honest picture of a typical sale price."
+  },
+  {
+    "id": 211,
+    "domain": "data_literacy_and_probability",
+    "front": "What is theoretical probability, and how is it calculated?",
+    "back": "Theoretical probability is calculated by reasoning about a situation before any trials occur, using the formula: number of favourable outcomes divided by number of total possible outcomes, assuming all outcomes are equally likely."
+  },
+  {
+    "id": 212,
+    "domain": "data_literacy_and_probability",
+    "front": "What is experimental probability, and how is it calculated?",
+    "back": "Experimental probability is calculated from the results of actual trials, using the formula: number of times an event occurred divided by the total number of trials conducted. It can differ from theoretical probability, especially over a small number of trials."
+  },
+  {
+    "id": 213,
+    "domain": "data_literacy_and_probability",
+    "front": "What is the theoretical probability of rolling a four on a standard six-sided die?",
+    "back": "The theoretical probability is one out of six. Exactly one of the six equally likely faces shows a four, so the number of favourable outcomes over total possible outcomes is one over six."
+  },
+  {
+    "id": 214,
+    "domain": "data_literacy_and_probability",
+    "front": "What does the law of large numbers state?",
+    "back": "The law of large numbers states that as the number of trials in an experiment increases, the experimental probability tends to converge toward the theoretical probability. Small trial sets can deviate noticeably, but this deviation shrinks as trials accumulate."
+  },
+  {
+    "id": 215,
+    "domain": "data_literacy_and_probability",
+    "front": "What is the sample space of an experiment?",
+    "back": "The sample space is the complete list of all possible outcomes of a probability experiment. For rolling one standard die, the sample space contains six outcomes, the numbers one through six."
+  },
+  {
+    "id": 216,
+    "domain": "data_literacy_and_probability",
+    "front": "Distinguish a simple event from a compound event.",
+    "back": "A simple event involves a single outcome or characteristic, such as rolling an even number on one die. A compound event involves two or more simple events considered together, such as flipping a coin and rolling a die at the same time."
+  },
+  {
+    "id": 217,
+    "domain": "data_literacy_and_probability",
+    "front": "State the fundamental counting principle and apply it to flipping a coin and rolling a die.",
+    "back": "The fundamental counting principle states that the total number of combined outcomes equals the product of the number of ways each individual event can occur. A coin has two outcomes and a die has six, so together there are twelve possible combined outcomes."
+  },
+  {
+    "id": 218,
+    "domain": "data_literacy_and_probability",
+    "front": "What is the difference between independent and dependent events?",
+    "back": "Independent events are events where the outcome of one does not affect the probability of the other, such as two separate coin flips. Dependent events are events where one outcome changes the probability of the other, such as drawing two cards without replacement."
+  },
+  {
+    "id": 219,
+    "domain": "data_literacy_and_probability",
+    "front": "How do you find the probability that two independent events both occur?",
+    "back": "Multiply their individual probabilities together. For example, the probability of flipping heads and then rolling a six is one half multiplied by one sixth, giving one twelfth."
+  },
+  {
+    "id": 220,
+    "domain": "data_literacy_and_probability",
+    "front": "Why does drawing a second card without replacement count as a dependent event?",
+    "back": "Removing the first card changes both the total number of cards remaining and possibly the count of favourable outcomes for the second draw. This changes the probability of the second event compared to what it would have been on its own."
+  },
+  {
+    "id": 221,
+    "domain": "data_literacy_and_probability",
+    "front": "What is the gambler's fallacy?",
+    "back": "The gambler's fallacy is the false belief that past independent random outcomes influence future ones, such as thinking a coin is due to land on heads after several tails in a row. Because each flip is independent, the probability of heads remains one half regardless of recent history."
+  },
+  {
+    "id": 222,
+    "domain": "data_literacy_and_probability",
+    "front": "A student says the mean, median, and mode are all just different names for average, so they should always be the same number. Why is this wrong?",
+    "back": "Mean, median, and mode are three distinct calculations that can produce three different numbers for the same dataset. Treating them as interchangeable causes students to misinterpret which measure is actually being reported or asked for."
+  },
+  {
+    "id": 223,
+    "domain": "data_literacy_and_probability",
+    "front": "A student assumes the mean of a dataset must equal one of the actual data values. Why is this a misconception?",
+    "back": "The mean is frequently a number that does not appear anywhere in the original dataset, such as an average of 3.4 goals per game. Because it is calculated by division, it can land between the actual recorded values."
+  },
+  {
+    "id": 224,
+    "domain": "data_literacy_and_probability",
+    "front": "Why is flipping two coins not equally likely to produce two heads, two tails, or one of each?",
+    "back": "One of each can occur in two different underlying ways, heads then tails or tails then heads, while two heads and two tails can each occur in only one way. This makes one of each twice as likely as either matching outcome."
+  },
+  {
+    "id": 225,
+    "domain": "data_literacy_and_probability",
+    "front": "Why is it a common error for students to read a bar's height as if the axis always starts at zero?",
+    "back": "If the vertical axis is truncated and does not start at zero, reading the bar height directly against a zero-based mental scale produces an incorrect estimate of the actual value. Students must check the axis starting point before estimating values."
+  },
+  {
+    "id": 226,
+    "domain": "data_literacy_and_probability",
+    "front": "What error do students make when confusing frequency and value on a histogram?",
+    "back": "Students sometimes report a bar's height as though it were a single data value, when the height actually represents a count of how many data points fall within that interval. This confuses the measured quantity with the tally of occurrences."
+  },
+  {
+    "id": 227,
+    "domain": "data_literacy_and_probability",
+    "front": "Why should any deviation between experimental and theoretical probability in a small trial set not automatically be treated as an experimental error?",
+    "back": "Random variation is a normal feature of small trial sets, not necessarily a sign that something went wrong. Experimental results only tend to converge toward theoretical probability as the number of trials grows large."
+  },
+  {
+    "id": 228,
+    "domain": "data_literacy_and_probability",
+    "front": "What is a relative frequency?",
+    "back": "A relative frequency expresses a category's count as a fraction, decimal, or percentage of the total number of data points, rather than as a raw count. It allows easier comparison between datasets of different overall sizes."
+  },
+  {
+    "id": 229,
+    "domain": "data_literacy_and_probability",
+    "front": "When comparing two graphs of the identical dataset drawn at different vertical scales, why can they create different visual impressions?",
+    "back": "A more compressed vertical scale minimizes the appearance of differences between values, while a more stretched vertical scale exaggerates them. The underlying numbers are unchanged, but the visual impression of how large the differences are can shift dramatically."
+  },
+  {
+    "id": 230,
+    "domain": "data_literacy_and_probability",
+    "front": "Why can a circle graph's sector not be read directly as a raw count?",
+    "back": "A circle graph shows proportion, meaning each sector represents a percentage of the whole, not a raw count, unless the raw counts are separately labelled on the sectors. To find an actual quantity, the sector's percentage must be applied to the dataset's total."
+  },
+  {
+    "id": 231,
+    "domain": "data_literacy_and_probability",
+    "front": "Give an example of a dataset with no mode.",
+    "back": "A dataset where every value occurs exactly once has no mode, since no value repeats more often than any other. For example, the dataset 2, 5, 9, 14 has no mode because each value appears only once."
+  },
+  {
+    "id": 232,
+    "domain": "data_literacy_and_probability",
+    "front": "Why is mode the only measure of central tendency usable with purely categorical data, such as favourite colour?",
+    "back": "Mean and median both require the data to be numerical and ordered, since they involve arithmetic or ranking. Mode simply identifies the most frequently occurring category, which works for both numerical and non-numerical data."
+  },
+  {
+    "id": 233,
+    "domain": "data_literacy_and_probability",
+    "front": "Why is a scatter plot different from a line graph in how points are connected?",
+    "back": "A line graph connects points in a fixed sequence, usually across time, to show a trend. A scatter plot leaves points unconnected, since each point represents a separate paired observation, and any trend is shown afterward with a separate line of best fit if one is added."
+  },
+  {
+    "id": 234,
+    "domain": "data_literacy_and_probability",
+    "front": "Why might a pictograph be a poor choice for precise scientific data?",
+    "back": "A pictograph can only represent quantities between whole icon units using partial icons, which are approximate rather than exact. A frequency table or bar graph gives precise values, making them better suited for data requiring accuracy."
+  },
+  {
+    "id": 235,
+    "domain": "data_literacy_and_probability",
+    "front": "What is meant by correlation in the context of a scatter plot?",
+    "back": "Correlation describes whether a relationship exists between two paired numerical variables shown on a scatter plot, such as hours studied and test score. A clear upward or downward pattern in the points suggests a positive or negative relationship, while scattered points with no pattern suggest little or no correlation."
+  },
+  {
+    "id": 236,
+    "domain": "data_literacy_and_probability",
+    "front": "Why must class intervals in a histogram be chosen carefully before graphing continuous data?",
+    "back": "Too few, overly wide intervals can hide meaningful variation in the data, while too many, overly narrow intervals can leave the pattern fragmented and hard to read. A balanced choice, typically five to ten intervals, reveals the true shape of the distribution."
+  },
+  {
+    "id": 237,
+    "domain": "data_literacy_and_probability",
+    "front": "A teacher wants to know the most common quiz score in a class. Which measure of central tendency answers this directly, and why might the mean be a poor fit here?",
+    "back": "The mode directly answers this question since it identifies the single most frequently occurring score. The mean might land on a decimal value that no student actually earned, making it a poor description of the single most common result."
+  },
+  {
+    "id": 238,
+    "domain": "data_literacy_and_probability",
+    "front": "Why is it important for teacher candidates to be able to identify misleading graphs, not just read accurate ones?",
+    "back": "A graph can be numerically accurate while its design choices, such as a truncated axis or inconsistent scale, still create a false visual impression. Recognizing these design flaws is necessary to correctly interpret real-world data and to teach students to be critical, informed readers of graphs."
+  },
+  {
+    "id": 239,
+    "domain": "data_literacy_and_probability",
+    "front": "What is the difference between an observation and an experiment when both are used to collect data about a science-connected math task?",
+    "back": "An observation records behaviour or events as they naturally occur without any interference from the collector. An experiment deliberately manipulates one variable and measures the resulting effect, giving more direct evidence about cause and effect than a passive observation can."
+  },
+  {
+    "id": 240,
+    "domain": "data_literacy_and_probability",
+    "front": "A dataset has an odd number of values. How do you find its median?",
+    "back": "First arrange all the values in order from least to greatest. The median is simply the single value that sits in the exact middle position of that ordered list."
+  },
+  {
+    "id": 241,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What is a polygon?",
+    "back": "A polygon is a closed, two-dimensional shape made entirely of straight line segments, with no curves and no gaps. Examples include triangles, quadrilaterals, and hexagons."
+  },
+  {
+    "id": 242,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What makes a polygon regular versus irregular?",
+    "back": "A regular polygon has all sides equal in length and all interior angles equal in measure. An irregular polygon fails at least one of those two conditions, even if its side count is the same."
+  },
+  {
+    "id": 243,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What distinguishes a convex polygon from a concave polygon?",
+    "back": "A convex polygon has every interior angle less than 180 degrees, so it never caves inward. A concave polygon has at least one interior angle greater than 180 degrees, creating a notch."
+  },
+  {
+    "id": 244,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Name the polygons with 5, 6, 7, 8, 9, and 10 sides.",
+    "back": "5 sides is a pentagon, 6 is a hexagon, 7 is a heptagon, 8 is an octagon, 9 is a nonagon, and 10 is a decagon."
+  },
+  {
+    "id": 245,
+    "domain": "geometry_and_spatial_sense",
+    "front": "How are triangles classified by side length?",
+    "back": "An equilateral triangle has three equal sides, an isosceles triangle has exactly two equal sides, and a scalene triangle has three sides that are all different lengths."
+  },
+  {
+    "id": 246,
+    "domain": "geometry_and_spatial_sense",
+    "front": "How are triangles classified by angle measure?",
+    "back": "An acute triangle has all three angles less than 90 degrees, a right triangle has exactly one 90 degree angle, and an obtuse triangle has exactly one angle greater than 90 degrees."
+  },
+  {
+    "id": 247,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Can a triangle be both isosceles and right at the same time?",
+    "back": "Yes. Side-based and angle-based triangle classifications are independent systems. A triangle can have a 90 degree angle and two equal legs, making it both isosceles and right."
+  },
+  {
+    "id": 248,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Define a trapezoid within the quadrilateral hierarchy.",
+    "back": "A trapezoid is a quadrilateral with at least one pair of parallel sides. Under the inclusive definition used in Ontario curriculum documents, parallelograms count as trapezoids too."
+  },
+  {
+    "id": 249,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Define a parallelogram.",
+    "back": "A parallelogram is a quadrilateral with two pairs of parallel sides. Opposite sides are equal in length and opposite angles are equal in measure."
+  },
+  {
+    "id": 250,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What makes a rectangle a special kind of parallelogram?",
+    "back": "A rectangle is a parallelogram with four right angles. It still has the parallelogram properties of equal opposite sides and equal opposite angles, but every angle measures exactly 90 degrees."
+  },
+  {
+    "id": 251,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What makes a rhombus a special kind of parallelogram?",
+    "back": "A rhombus is a parallelogram with all four sides equal in length. Its angles are not required to be 90 degrees, so a rhombus can look like a slanted diamond shape."
+  },
+  {
+    "id": 252,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Why is a square both a rectangle and a rhombus?",
+    "back": "A square has four right angles, satisfying the rectangle definition, and four equal sides, satisfying the rhombus definition. It meets both sets of conditions at once, so it belongs to both categories."
+  },
+  {
+    "id": 253,
+    "domain": "geometry_and_spatial_sense",
+    "front": "A student insists a square is not a rectangle. What is the correcting explanation?",
+    "back": "A square meets every requirement of a rectangle, four sides with four right angles, so by definition it is a rectangle. The hierarchy runs from general to specific: not every rectangle is a square, but every square is a rectangle."
+  },
+  {
+    "id": 254,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What is a kite, and where does it sit in the quadrilateral hierarchy?",
+    "back": "A kite has two pairs of adjacent equal sides rather than opposite equal sides. It sits outside the parallelogram family entirely, since its sides are not equal and opposite in the parallelogram sense."
+  },
+  {
+    "id": 255,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Define face, edge, and vertex for a three-dimensional solid.",
+    "back": "A face is a flat or curved surface of the solid. An edge is a line segment where two faces meet. A vertex is a point where two or more edges meet."
+  },
+  {
+    "id": 256,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What is a prism, and how is it named?",
+    "back": "A prism is a solid with two parallel, congruent polygon bases connected by rectangular lateral faces. It is named after the shape of its base, such as a triangular prism or a rectangular prism."
+  },
+  {
+    "id": 257,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What is a pyramid?",
+    "back": "A pyramid has one polygon base and triangular lateral faces that all meet at a single point called the apex. It is named after the shape of its base, such as a square pyramid or a triangular pyramid."
+  },
+  {
+    "id": 258,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Describe the faces, edges, and vertices of a cylinder.",
+    "back": "A cylinder has two flat circular faces and one curved surface joining them, plus two circular edges where the curved surface meets each flat face. It has no vertices, since none of its edges come to a point."
+  },
+  {
+    "id": 259,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Describe the faces, edges, and vertices of a cone.",
+    "back": "A cone has one flat circular base, one curved lateral surface, one circular edge where the base meets the curved surface, and one vertex at the apex where the surface tapers to a point."
+  },
+  {
+    "id": 260,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Describe the faces, edges, and vertices of a sphere.",
+    "back": "A sphere has one continuous curved surface and no flat faces, no straight edges, and no vertices at all, since every point on its surface is equally curved."
+  },
+  {
+    "id": 261,
+    "domain": "geometry_and_spatial_sense",
+    "front": "State Euler's formula for a convex polyhedron and what it checks.",
+    "back": "Euler's formula states that faces plus vertices equals edges plus two, written F plus V equals E plus 2. It is a reliable way to verify that a solid's reported face, edge, and vertex counts are consistent."
+  },
+  {
+    "id": 262,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What is a net of a three-dimensional solid?",
+    "back": "A net is a two-dimensional pattern that can be folded along its edges to form a three-dimensional solid, with every face of the solid appearing exactly once in a correctly constructed net."
+  },
+  {
+    "id": 263,
+    "domain": "geometry_and_spatial_sense",
+    "front": "How many distinct nets can fold into a cube?",
+    "back": "There are eleven different valid nets for a cube, each made of six squares arranged so that folding brings the edges together without gaps or overlaps."
+  },
+  {
+    "id": 264,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Describe the net of a cone and the condition it must satisfy.",
+    "back": "A cone's net is a circle for the base plus a sector of a larger circle for the curved lateral surface. The arc length of that sector must equal the circumference of the base circle for the net to close properly."
+  },
+  {
+    "id": 265,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Define acute, right, obtuse, straight, and reflex angles.",
+    "back": "Acute is less than 90 degrees, right is exactly 90 degrees, obtuse is more than 90 but less than 180 degrees, straight is exactly 180 degrees, and reflex is more than 180 but less than 360 degrees."
+  },
+  {
+    "id": 266,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What are complementary angles?",
+    "back": "Complementary angles are two angles whose measures add to 90 degrees. They do not need to be adjacent to each other, the term describes a numerical relationship, not a spatial arrangement."
+  },
+  {
+    "id": 267,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What are supplementary angles?",
+    "back": "Supplementary angles are two angles whose measures add to 180 degrees. Like complementary angles, they do not need to be next to each other to satisfy the definition."
+  },
+  {
+    "id": 268,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What are vertical angles, and what is always true about them?",
+    "back": "Vertical angles are the pair of angles directly across from each other when two straight lines cross. Vertical angles are always equal in measure, regardless of the angle at which the lines intersect."
+  },
+  {
+    "id": 269,
+    "domain": "geometry_and_spatial_sense",
+    "front": "When a transversal crosses two parallel lines, what is true of corresponding angles?",
+    "back": "Corresponding angles occupy the same relative position at each intersection point and are always equal in measure when the two lines cut by the transversal are parallel."
+  },
+  {
+    "id": 270,
+    "domain": "geometry_and_spatial_sense",
+    "front": "When a transversal crosses two parallel lines, what is true of co-interior angles?",
+    "back": "Co-interior angles, also called same-side interior angles, lie between the two parallel lines on the same side of the transversal. They are always supplementary, adding to 180 degrees."
+  },
+  {
+    "id": 271,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What is the sum of the interior angles of any triangle?",
+    "back": "The interior angles of any triangle always sum to 180 degrees, regardless of the triangle's shape or size. This can be shown by tearing off the three corners and arranging them along a straight line."
+  },
+  {
+    "id": 272,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What is the sum of the interior angles of any quadrilateral, and why?",
+    "back": "The interior angles of any quadrilateral sum to 360 degrees. This follows because a single diagonal splits any quadrilateral into two triangles, each contributing 180 degrees."
+  },
+  {
+    "id": 273,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What is the general formula for the interior angle sum of a polygon with n sides?",
+    "back": "The interior angle sum equals the quantity n minus 2, multiplied by 180 degrees. For example, a hexagon has n equal to 6, giving an angle sum of 720 degrees."
+  },
+  {
+    "id": 274,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Name the four transformations in the Ontario curriculum and describe a translation.",
+    "back": "The four transformations are translation, reflection, rotation, and dilation. A translation, or slide, moves every point of a shape the same distance in the same direction without turning or flipping it."
+  },
+  {
+    "id": 275,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Describe a reflection transformation.",
+    "back": "A reflection flips a shape over a line called the line of reflection, producing a mirror image where every point and its corresponding image point are equidistant from that line."
+  },
+  {
+    "id": 276,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Describe a rotation transformation.",
+    "back": "A rotation turns a shape around a fixed point called the centre of rotation, through a specified angle and direction, such as 90 degrees clockwise around a given point."
+  },
+  {
+    "id": 277,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Describe a dilation transformation.",
+    "back": "A dilation enlarges or reduces a shape by a scale factor from a fixed centre point. It changes the size of the shape while keeping its angles and side length ratios the same."
+  },
+  {
+    "id": 278,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Which transformations are rigid, and why does that matter?",
+    "back": "Translation, reflection, and rotation are rigid transformations, also called isometries, because they preserve both the size and shape of a figure exactly, changing only its position or orientation."
+  },
+  {
+    "id": 279,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Why is dilation not a rigid transformation?",
+    "back": "Dilation changes the size of a figure by a scale factor, so distances between points are not preserved. It still preserves angle measures and the ratios between side lengths, but not overall size."
+  },
+  {
+    "id": 280,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What is line symmetry?",
+    "back": "A shape has line symmetry if a line can be drawn through it so that one half is the mirror image of the other half. A shape can have zero, one, or multiple lines of symmetry."
+  },
+  {
+    "id": 281,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What is rotational symmetry, and what is the order of rotational symmetry?",
+    "back": "A shape has rotational symmetry if it looks identical after being rotated less than a full 360 degrees around its centre. The order tells how many times it matches itself during one complete rotation."
+  },
+  {
+    "id": 282,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Define congruent figures.",
+    "back": "Two figures are congruent if they are exactly the same size and shape, meaning one can be placed exactly on the other using only rigid transformations. Corresponding sides and angles are all equal."
+  },
+  {
+    "id": 283,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Define similar figures.",
+    "back": "Two figures are similar if they have the same shape but not necessarily the same size, meaning one is a dilation of the other, possibly combined with a rigid transformation. Corresponding angles are equal and sides share a common ratio."
+  },
+  {
+    "id": 284,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Is every congruent pair of figures also similar? Explain.",
+    "back": "Yes. Congruent figures are a special case of similar figures where the scale factor equals 1, meaning the size ratio between corresponding sides is exactly one to one."
+  },
+  {
+    "id": 285,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What are the two axes of the Cartesian coordinate plane, and where do they meet?",
+    "back": "The horizontal x-axis and the vertical y-axis are perpendicular number lines that intersect at the origin, the point (0, 0), which is the reference point for every coordinate on the plane."
+  },
+  {
+    "id": 286,
+    "domain": "geometry_and_spatial_sense",
+    "front": "How do you read an ordered pair (x, y) on the coordinate plane?",
+    "back": "The x value tells the horizontal distance from the origin, positive to the right and negative to the left. The y value tells the vertical distance, positive upward and negative downward."
+  },
+  {
+    "id": 287,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Describe the sign pattern of Quadrant I.",
+    "back": "Quadrant I is the upper right region of the coordinate plane, where both the x-coordinate and the y-coordinate of every point are positive."
+  },
+  {
+    "id": 288,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Describe the sign pattern of Quadrant II.",
+    "back": "Quadrant II is the upper left region of the coordinate plane, where the x-coordinate is negative and the y-coordinate is positive."
+  },
+  {
+    "id": 289,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Describe the sign pattern of Quadrant III.",
+    "back": "Quadrant III is the lower left region of the coordinate plane, where both the x-coordinate and the y-coordinate of every point are negative."
+  },
+  {
+    "id": 290,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Describe the sign pattern of Quadrant IV.",
+    "back": "Quadrant IV is the lower right region of the coordinate plane, where the x-coordinate is positive and the y-coordinate is negative."
+  },
+  {
+    "id": 291,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What happens to the point (x, y) when it is reflected over the y-axis?",
+    "back": "Reflecting over the y-axis produces the image point (negative x, y). The y-coordinate stays the same while the x-coordinate changes sign."
+  },
+  {
+    "id": 292,
+    "domain": "geometry_and_spatial_sense",
+    "front": "State the Pythagorean theorem and define its variables.",
+    "back": "For a right triangle with legs a and b and hypotenuse c, a squared plus b squared equals c squared. The legs meet at the right angle, and the hypotenuse is the longest side, opposite that right angle."
+  },
+  {
+    "id": 293,
+    "domain": "geometry_and_spatial_sense",
+    "front": "How do you find the hypotenuse of a right triangle when both legs are known?",
+    "back": "Square each leg length, add the two squared values together, and take the square root of that sum. The result is the length of the hypotenuse."
+  },
+  {
+    "id": 294,
+    "domain": "geometry_and_spatial_sense",
+    "front": "How do you find a missing leg of a right triangle when the hypotenuse and one leg are known?",
+    "back": "Square the hypotenuse and the known leg, subtract the leg's squared value from the hypotenuse's squared value, and take the square root of that difference to get the missing leg."
+  },
+  {
+    "id": 295,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What is the converse of the Pythagorean theorem, and why is it useful?",
+    "back": "If a triangle's three side lengths satisfy a squared plus b squared equals c squared, the triangle must be a right triangle. This lets you confirm a right angle using only measurements, without a protractor."
+  },
+  {
+    "id": 296,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Give a real-world Grade 8 application of the Pythagorean theorem.",
+    "back": "Finding the diagonal distance across a rectangular field, or calculating the length of a ladder needed to safely reach a certain height on a wall, both rely directly on the Pythagorean theorem."
+  },
+  {
+    "id": 297,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Why do students confuse perimeter and area, and how should a teacher correct it?",
+    "back": "Students often assume a larger perimeter always means a larger area, but two shapes can share a perimeter with very different areas. Reinforce that perimeter measures distance around the boundary while area measures the space inside."
+  },
+  {
+    "id": 298,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What error do students commonly make when trying to add two given sides before applying the Pythagorean theorem?",
+    "back": "Students sometimes add the two given side lengths directly and take the square root, skipping the squaring step. The correct method squares each side first, then adds, then takes the square root."
+  },
+  {
+    "id": 299,
+    "domain": "geometry_and_spatial_sense",
+    "front": "Why is it wrong to assume all hexagons look alike?",
+    "back": "A regular hexagon has equal sides and equal angles, but an irregular hexagon can vary enormously in shape while still having six sides. Side count alone does not determine appearance."
+  },
+  {
+    "id": 300,
+    "domain": "geometry_and_spatial_sense",
+    "front": "What congruence symbol is used, and what rule applies when writing a congruence statement?",
+    "back": "Congruence is shown with a tilde placed over an equals sign. When writing the statement, corresponding vertices of the two figures must be listed in matching order."
+  },
+  {
+    "id": 301,
+    "domain": "measurement",
+    "front": "What is the formula for the perimeter of a regular polygon?",
+    "back": "Multiply the length of one side by the number of sides. This works because every side of a regular polygon is the same length, so repeated addition simplifies to multiplication."
+  },
+  {
+    "id": 302,
+    "domain": "measurement",
+    "front": "How do you find a missing side length in a composite rectilinear figure?",
+    "back": "Compare the known outer dimensions to the labelled inner segments and subtract to find the missing part. This is common in L-shaped or staircase-shaped polygons where not every side is directly labelled."
+  },
+  {
+    "id": 303,
+    "domain": "measurement",
+    "front": "What is the most common student error when confusing perimeter and area?",
+    "back": "Students multiply side lengths when asked for perimeter, or add side lengths when asked for area. Remind students that perimeter is a distance you walk around a shape's edge, while area is the surface it covers."
+  },
+  {
+    "id": 304,
+    "domain": "measurement",
+    "front": "What units should a perimeter answer always be reported in?",
+    "back": "Linear units only, such as centimetres or metres, never squared units. Squared units belong to area, not perimeter."
+  },
+  {
+    "id": 305,
+    "domain": "measurement",
+    "front": "What is the area formula for a rectangle?",
+    "back": "Area equals length multiplied by width. This is the foundational area formula that most other polygon area formulas are derived from."
+  },
+  {
+    "id": 306,
+    "domain": "measurement",
+    "front": "What is the area formula for a triangle, and what counts as the height?",
+    "back": "Area equals one half multiplied by base multiplied by height. The height is the perpendicular distance from the base to the opposite vertex, not the length of a slanted side."
+  },
+  {
+    "id": 307,
+    "domain": "measurement",
+    "front": "Why does an obtuse triangle's height sometimes fall outside the triangle?",
+    "back": "Because the height must be perpendicular to the base line, and in an obtuse or scalene triangle that perpendicular line from the opposite vertex can land beyond the triangle's base. It is shown with a dashed altitude line extended outside the shape."
+  },
+  {
+    "id": 308,
+    "domain": "measurement",
+    "front": "What is the area formula for a parallelogram, and why does it not include one half?",
+    "back": "Area equals base multiplied by height. A parallelogram can be cut and rearranged into a rectangle with the same base and height, so unlike a triangle it does not need the one half factor."
+  },
+  {
+    "id": 309,
+    "domain": "measurement",
+    "front": "What is the area formula for a trapezoid?",
+    "back": "Area equals one half multiplied by the sum of the two parallel sides (the bases) multiplied by the height. This can also be described as the average of the two bases multiplied by the height."
+  },
+  {
+    "id": 310,
+    "domain": "measurement",
+    "front": "What is the formula for the circumference of a circle?",
+    "back": "Circumference equals pi multiplied by diameter, or equivalently two multiplied by pi multiplied by radius. Pi is approximately 3.14 for most working calculations."
+  },
+  {
+    "id": 311,
+    "domain": "measurement",
+    "front": "What is the formula for the area of a circle?",
+    "back": "Area equals pi multiplied by the radius squared. A common student error is plugging the diameter directly into this formula instead of halving it first to get the radius."
+  },
+  {
+    "id": 312,
+    "domain": "measurement",
+    "front": "What happens if a student uses diameter instead of radius when finding a circle's area?",
+    "back": "The resulting area comes out four times too large, since the diameter is twice the radius and it gets squared in the formula. Always confirm whether the given measurement is a radius or a diameter before starting."
+  },
+  {
+    "id": 313,
+    "domain": "measurement",
+    "front": "How should a composite figure combining a rectangle and a semicircle be handled?",
+    "back": "Split the figure into its recognizable parts, calculate the area of each part separately using its own formula, then add or subtract as needed. Be careful not to double count any shared edge between the parts."
+  },
+  {
+    "id": 314,
+    "domain": "measurement",
+    "front": "What is the surface area formula for a rectangular prism?",
+    "back": "Two multiplied by the sum of length times width, length times height, and width times height. This shortcut works because opposite faces of a rectangular prism are congruent pairs."
+  },
+  {
+    "id": 315,
+    "domain": "measurement",
+    "front": "How do you find the surface area of a triangular prism?",
+    "back": "Add the areas of the two congruent triangular faces to the areas of the three rectangular faces that wrap around the sides. Visualizing the solid unfolded into a flat net helps ensure no face is missed or double counted."
+  },
+  {
+    "id": 316,
+    "domain": "measurement",
+    "front": "What is the surface area formula for a cylinder?",
+    "back": "Two multiplied by pi multiplied by radius squared, plus two multiplied by pi multiplied by radius multiplied by height. The first term covers the two circular bases and the second term covers the curved side unrolled into a rectangle."
+  },
+  {
+    "id": 317,
+    "domain": "measurement",
+    "front": "Why does a cone's surface area formula use slant height instead of vertical height?",
+    "back": "The lateral surface of a cone is a curved shape measured along its outer edge, which is the slant height, the distance from the base edge to the apex along the outside. Using the vertical height instead would understate the true surface distance and produce a wrong answer."
+  },
+  {
+    "id": 318,
+    "domain": "measurement",
+    "front": "What is the formula for the surface area of a sphere?",
+    "back": "Surface area equals four multiplied by pi multiplied by radius squared. Unlike a prism or cylinder, a sphere has no flat net, so this formula is applied directly rather than derived visually."
+  },
+  {
+    "id": 319,
+    "domain": "measurement",
+    "front": "How is the surface area of a square-based pyramid calculated?",
+    "back": "Add the area of the square base to the areas of the four congruent triangular faces, each calculated using the pyramid's slant height rather than its vertical height. Confusing slant height with vertical height is a common error here too."
+  },
+  {
+    "id": 320,
+    "domain": "measurement",
+    "front": "What is the volume formula for a rectangular prism?",
+    "back": "Volume equals length multiplied by width multiplied by height. This can also be understood as the area of the base multiplied by the height."
+  },
+  {
+    "id": 321,
+    "domain": "measurement",
+    "front": "How do you find the volume of a triangular prism?",
+    "back": "Find the area of the triangular base using the triangle area formula, then multiply that area by the length of the prism. This follows the general base-area-times-height pattern shared by all prisms."
+  },
+  {
+    "id": 322,
+    "domain": "measurement",
+    "front": "What is the volume formula for a cylinder?",
+    "back": "Volume equals pi multiplied by radius squared multiplied by height. This is the area of the circular base multiplied by the height of the cylinder."
+  },
+  {
+    "id": 323,
+    "domain": "measurement",
+    "front": "How does a cone's volume relate to a cylinder with the same base and height?",
+    "back": "A cone's volume is exactly one third of a cylinder's volume when they share the same base radius and height. So the cone volume formula is one third multiplied by pi multiplied by radius squared multiplied by height."
+  },
+  {
+    "id": 324,
+    "domain": "measurement",
+    "front": "What is the volume formula for a square-based pyramid?",
+    "back": "Volume equals one third multiplied by the area of the square base multiplied by the height. This mirrors the one third relationship a cone has to a cylinder of matching base and height."
+  },
+  {
+    "id": 325,
+    "domain": "measurement",
+    "front": "What is the formula for the volume of a sphere?",
+    "back": "Volume equals four thirds multiplied by pi multiplied by radius cubed. This formula is generally applied directly at the Grade 3 to 9 level rather than derived from first principles."
+  },
+  {
+    "id": 326,
+    "domain": "measurement",
+    "front": "What is the single most common unit error across area, surface area, and volume answers?",
+    "back": "Forgetting to square the units for an area or surface area answer, or forgetting to cube the units for a volume answer, and instead leaving the answer in plain linear units. Area answers need squared units and volume answers need cubed units."
+  },
+  {
+    "id": 327,
+    "domain": "measurement",
+    "front": "What are the standard metric length units from smallest to largest, and how do they relate?",
+    "back": "Millimetres, centimetres, metres, and kilometres. There are 10 millimetres in a centimetre, 100 centimetres in a metre, and 1000 metres in a kilometre."
+  },
+  {
+    "id": 328,
+    "domain": "measurement",
+    "front": "What are the standard metric mass and capacity relationships?",
+    "back": "There are 1000 milligrams in a gram and 1000 grams in a kilogram for mass. There are 1000 millilitres in a litre for capacity."
+  },
+  {
+    "id": 329,
+    "domain": "measurement",
+    "front": "Why does converting metric units mainly involve moving a decimal point?",
+    "back": "Because the metric system is built entirely on powers of ten, so every unit relationship is a factor of ten, a hundred, or a thousand. Converting to a larger unit means dividing, and converting to a smaller unit means multiplying."
+  },
+  {
+    "id": 330,
+    "domain": "measurement",
+    "front": "What common imperial units should teacher candidates recognize, and roughly how do they relate to metric?",
+    "back": "Inches, feet, yards, and miles for length, pounds and ounces for mass, and cups, quarts, and gallons for capacity. A rough benchmark is that one inch is approximately 2.5 centimetres, useful for estimation without memorizing exact conversion factors."
+  },
+  {
+    "id": 331,
+    "domain": "measurement",
+    "front": "Why can't standard base ten subtraction be used directly for elapsed time problems?",
+    "back": "Because time is not a base ten system: there are 60 seconds in a minute, 60 minutes in an hour, and 24 hours in a day. Standard place value borrowing assumes units of ten, so it must be adapted for these different groupings."
+  },
+  {
+    "id": 332,
+    "domain": "measurement",
+    "front": "What is a reliable strategy for solving elapsed time problems?",
+    "back": "Count forward in convenient chunks: move from the start time to the next full hour, add full hours until reaching the end hour, then add the remaining minutes. This chunking method avoids errors from trying to subtract clock times directly."
+  },
+  {
+    "id": 333,
+    "domain": "measurement",
+    "front": "Why must measurements be converted to a common unit before adding or subtracting mass or capacity values?",
+    "back": "Because you cannot combine quantities expressed in different units directly, such as grams and kilograms, without first converting one of them. For example, adding 250 grams to 1.2 kilograms requires expressing both values in the same unit before adding."
+  },
+  {
+    "id": 334,
+    "domain": "measurement",
+    "front": "How should a protractor be positioned to correctly measure an angle?",
+    "back": "Line up the vertex of the angle with the centre point of the protractor, align one ray with the zero line, and read the scale where the second ray crosses it. Estimating the angle type first helps catch a scale-reading error afterward."
+  },
+  {
+    "id": 335,
+    "domain": "measurement",
+    "front": "What is the most common protractor reading error, and how can it be caught?",
+    "back": "Reading the wrong one of the two opposite-direction scales, which gives an answer off by the supplementary amount, such as 50 degrees instead of the true 130 degrees. Estimating whether the angle looks acute, right, obtuse, or reflex before reading the scale helps catch this mistake."
+  },
+  {
+    "id": 336,
+    "domain": "measurement",
+    "front": "What are the five angle classifications by size?",
+    "back": "Acute is less than 90 degrees, right is exactly 90 degrees, obtuse is between 90 and 180 degrees, straight is exactly 180 degrees, and reflex is between 180 and 360 degrees."
+  },
+  {
+    "id": 337,
+    "domain": "measurement",
+    "front": "State the Pythagorean theorem and identify the hypotenuse.",
+    "back": "In a right triangle, a squared plus b squared equals c squared, where c is the hypotenuse, the side opposite the right angle, and a and b are the two legs. It only applies to right triangles."
+  },
+  {
+    "id": 338,
+    "domain": "measurement",
+    "front": "How do you find the diagonal of a rectangle using the Pythagorean theorem?",
+    "back": "Treat the rectangle's length and width as the two legs of a right triangle and solve for the hypotenuse, which is the diagonal. Square both legs, add them, then take the square root of the sum."
+  },
+  {
+    "id": 339,
+    "domain": "measurement",
+    "front": "In a ladder-against-a-wall problem, which measurement is the hypotenuse?",
+    "back": "The ladder itself is the hypotenuse. The height it reaches on the wall is one leg, and the distance from the wall's base to the foot of the ladder is the other leg."
+  },
+  {
+    "id": 340,
+    "domain": "measurement",
+    "front": "What error do students commonly make when applying the Pythagorean theorem?",
+    "back": "Adding the two given lengths directly instead of squaring each one first, summing the squares, and then taking the square root. Another common error is applying the theorem to a triangle that is not actually a right triangle."
+  },
+  {
+    "id": 341,
+    "domain": "financial_literacy",
+    "front": "How do you convert a percent to a decimal before calculating a percent of a quantity?",
+    "back": "Divide the percent by 100, or move the decimal point two places to the left. For example, 20 percent becomes 0.20. This decimal is then multiplied by the quantity to find the answer."
+  },
+  {
+    "id": 342,
+    "domain": "financial_literacy",
+    "front": "A 40 dollar shirt is 25 percent off. What is the sale price?",
+    "back": "Find the discount amount, 0.25 times 40 equals 10 dollars, then subtract from the original price, 40 minus 10 equals 30 dollars. The sale price is 30 dollars."
+  },
+  {
+    "id": 343,
+    "domain": "financial_literacy",
+    "front": "What shortcut lets you find a discounted price in a single multiplication step?",
+    "back": "Subtract the discount percent from 100 percent to find the percent remaining, convert it to a decimal, then multiply directly by the original price. A 25 percent discount means multiplying by 0.75."
+  },
+  {
+    "id": 344,
+    "domain": "financial_literacy",
+    "front": "What is the HST rate in Ontario and how is it applied to a price?",
+    "back": "HST in Ontario is 13 percent on most goods and services. It is added to the original price, or the price can be multiplied directly by 1.13 to get the total in one step."
+  },
+  {
+    "id": 345,
+    "domain": "financial_literacy",
+    "front": "An 80 dollar item is 30 percent off, then HST of 13 percent is added. What is the final price, and what mistake do students commonly make?",
+    "back": "The discounted price is 0.70 times 80, which is 56 dollars. HST is then applied to 56 dollars, giving 56 times 1.13, which is 63.28 dollars. A common mistake is applying HST to the original 80 dollars instead of the discounted price."
+  },
+  {
+    "id": 346,
+    "domain": "financial_literacy",
+    "front": "What is the formula for percent change?",
+    "back": "Percent change equals the difference between the new value and the original value, divided by the original value, then multiplied by 100. This formula covers markup, discount, growth, and depreciation."
+  },
+  {
+    "id": 347,
+    "domain": "financial_literacy",
+    "front": "A price increases 20 percent, then decreases 20 percent the next month. Does it return to the original value?",
+    "back": "No. Starting at 100 dollars, a 20 percent increase gives 120 dollars. The 20 percent decrease is then calculated on 120 dollars, not 100 dollars, giving a decrease of 24 dollars and a final price of 96 dollars, which is lower than the start."
+  },
+  {
+    "id": 348,
+    "domain": "financial_literacy",
+    "front": "Why does a percent increase followed by an equal percent decrease not cancel out?",
+    "back": "Each percent change is calculated on a different base amount. The increase is based on the original value, but the decrease is based on the new, larger value, so the dollar amount subtracted is bigger than the dollar amount added."
+  },
+  {
+    "id": 349,
+    "domain": "financial_literacy",
+    "front": "A store buys an item for 40 dollars and marks it up 50 percent. What is the selling price, and what error do students often make?",
+    "back": "The selling price is 40 times 1.50, which is 60 dollars. Students often mistakenly apply the 50 percent to the selling price instead of the original cost price, producing an incorrect markup amount."
+  },
+  {
+    "id": 350,
+    "domain": "financial_literacy",
+    "front": "A salesperson earns 6 percent commission on 15,000 dollars in sales. How much commission do they earn?",
+    "back": "Commission equals 0.06 times 15,000, which is 900 dollars. Commission is always calculated as a percent of the total sales amount."
+  },
+  {
+    "id": 351,
+    "domain": "financial_literacy",
+    "front": "If a job pays a base salary plus commission, how should total pay be calculated?",
+    "back": "The base salary and the commission amount must be calculated separately and then added together. The commission rate should never be applied to the combined total, only to the sales figure."
+  },
+  {
+    "id": 352,
+    "domain": "financial_literacy",
+    "front": "What is the formula for simple interest?",
+    "back": "Simple interest equals principal multiplied by rate multiplied by time, written as I = P times r times t. The rate is expressed as a decimal and time is expressed in years."
+  },
+  {
+    "id": 353,
+    "domain": "financial_literacy",
+    "front": "500 dollars is invested at 4 percent simple interest for 3 years. How much interest is earned, and what is the total value?",
+    "back": "Interest is 500 times 0.04 times 3, which is 60 dollars. The total value is the principal plus interest, 500 plus 60, which is 560 dollars."
+  },
+  {
+    "id": 354,
+    "domain": "financial_literacy",
+    "front": "Why does simple interest produce the same dollar amount of interest every year?",
+    "back": "Simple interest is always calculated on the original principal, not on any interest already earned. Since the base amount never changes, the yearly interest stays constant, making the growth linear."
+  },
+  {
+    "id": 355,
+    "domain": "financial_literacy",
+    "front": "500 dollars earns 4 percent simple interest for 9 months. How is time expressed in the formula, and what is the interest earned?",
+    "back": "Time must be written as a fraction of a year, 9 over 12, or 0.75. Interest is 500 times 0.04 times 0.75, which is 15 dollars."
+  },
+  {
+    "id": 356,
+    "domain": "financial_literacy",
+    "front": "What mistake do students commonly make when a loan or investment term is given in months?",
+    "back": "Students often plug the number of months directly into the time variable instead of converting it to a fraction of a year, which produces an interest amount many times too large."
+  },
+  {
+    "id": 357,
+    "domain": "financial_literacy",
+    "front": "How does compound interest differ from simple interest?",
+    "back": "Compound interest is calculated on the principal plus any interest already earned, so each period's interest is based on a growing balance. Simple interest is always calculated only on the original principal."
+  },
+  {
+    "id": 358,
+    "domain": "financial_literacy",
+    "front": "What is the compound interest formula and what does each variable represent?",
+    "back": "A = P(1 + r) raised to the power t. A is the final amount, P is the principal, r is the interest rate per period as a decimal, and t is the number of compounding periods."
+  },
+  {
+    "id": 359,
+    "domain": "financial_literacy",
+    "front": "500 dollars is invested at 4 percent interest compounded annually for 3 years. What is the balance after each year?",
+    "back": "Year 1: 500 plus 20 interest equals 520 dollars. Year 2: 520 plus 20.80 interest equals 540.80 dollars. Year 3: 540.80 plus 21.63 interest equals about 562.43 dollars."
+  },
+  {
+    "id": 360,
+    "domain": "financial_literacy",
+    "front": "Comparing 500 dollars at 4 percent for 3 years, why does compound interest total more than simple interest?",
+    "back": "Simple interest reaches exactly 560 dollars because interest is always based on the original 500. Compound interest reaches about 562.43 dollars because each year's interest is calculated on the previous year's larger balance."
+  },
+  {
+    "id": 361,
+    "domain": "financial_literacy",
+    "front": "What is a common misconception students have about simple versus compound interest?",
+    "back": "Students often believe the two produce the same result, especially over short time periods where the gap is small. The difference grows much larger the longer the money is invested."
+  },
+  {
+    "id": 362,
+    "domain": "financial_literacy",
+    "front": "If an account pays 6 percent annual interest compounded monthly, what rate is used for each period?",
+    "back": "The annual rate is divided by the number of compounding periods in a year. 0.06 divided by 12 gives a monthly rate of 0.005, which is used for each of the 12 periods."
+  },
+  {
+    "id": 363,
+    "domain": "financial_literacy",
+    "front": "What is the difference between fixed and variable expenses in a budget?",
+    "back": "Fixed expenses stay the same amount each period, such as rent or a phone plan. Variable expenses change from period to period, such as groceries or entertainment, and usually need to be estimated."
+  },
+  {
+    "id": 364,
+    "domain": "financial_literacy",
+    "front": "A monthly income is 3,200 dollars and total expenses are 2,950 dollars. Does the budget have a surplus or a deficit?",
+    "back": "The budget has a surplus of 250 dollars, since income is greater than expenses. Income minus expenses gives a positive value."
+  },
+  {
+    "id": 365,
+    "domain": "financial_literacy",
+    "front": "A monthly income is 3,200 dollars and total expenses are 3,400 dollars. What does this mean for the budget?",
+    "back": "The budget has a deficit of 200 dollars, since expenses exceed income. The person would need to borrow, use savings, or reduce expenses to cover the shortfall."
+  },
+  {
+    "id": 366,
+    "domain": "financial_literacy",
+    "front": "Housing should not exceed 30 percent of a 4,000 dollar monthly income. What is the maximum recommended housing cost?",
+    "back": "Multiply 0.30 by 4,000, which is 1,200 dollars. This is the maximum amount that should be spent on housing to stay within the recommended percentage."
+  },
+  {
+    "id": 367,
+    "domain": "financial_literacy",
+    "front": "What misconception do students often have about budget categories?",
+    "back": "Students sometimes treat all expenses as fixed, forgetting that variable expenses need to be estimated. They may also treat savings as only whatever is left over, instead of budgeting it as its own line item."
+  },
+  {
+    "id": 368,
+    "domain": "financial_literacy",
+    "front": "How is unit price calculated?",
+    "back": "Divide the total price by the total quantity. This gives the cost of a single unit, such as cost per gram, cost per litre, or cost per item."
+  },
+  {
+    "id": 369,
+    "domain": "financial_literacy",
+    "front": "A 750 gram box of cereal costs 4.50 dollars. What is the unit price per gram?",
+    "back": "Divide 4.50 by 750, which gives 0.006 dollars per gram. This can also be expressed as 0.60 dollars per 100 grams for easier comparison."
+  },
+  {
+    "id": 370,
+    "domain": "financial_literacy",
+    "front": "A 1 litre bottle of juice costs 2.80 dollars and a 1.5 litre bottle costs 3.90 dollars. Which is the better buy per litre?",
+    "back": "The 1 litre bottle costs 2.80 dollars per litre. The 1.5 litre bottle costs 3.90 divided by 1.5, which is 2.60 dollars per litre. The larger bottle is the better buy even though its total price is higher."
+  },
+  {
+    "id": 371,
+    "domain": "financial_literacy",
+    "front": "What misconception do students often have about package size and best buy comparisons?",
+    "back": "Students often assume the larger package is automatically the better deal. Unit price must actually be calculated and compared, since a larger package is not always cheaper per unit."
+  },
+  {
+    "id": 372,
+    "domain": "financial_literacy",
+    "front": "How can a best buy problem be solved using a proportion instead of a decimal unit price?",
+    "back": "Set up a ratio table comparing quantity to price for each option, then use equivalent ratios or cross multiplication to compare how much of each item you get for the same amount of money."
+  },
+  {
+    "id": 373,
+    "domain": "financial_literacy",
+    "front": "What is the main difference between a savings account and a chequing account?",
+    "back": "A savings account typically pays interest on the balance and is meant for holding money over time. A chequing account is designed for frequent transactions and may or may not pay interest."
+  },
+  {
+    "id": 374,
+    "domain": "financial_literacy",
+    "front": "A bank account starts at 340 dollars, has a 150 dollar deposit, a 60 dollar withdrawal, and a 4.95 dollar monthly fee. What is the ending balance?",
+    "back": "340 plus 150 is 490, minus 60 is 430, minus the 4.95 fee gives an ending balance of 425.05 dollars. Each transaction is applied in order."
+  },
+  {
+    "id": 375,
+    "domain": "financial_literacy",
+    "front": "An 800 dollar savings account earns 2 percent simple interest per year. How much interest is earned after 6 months?",
+    "back": "Interest is 800 times 0.02 times 0.5, since 6 months is half a year, which equals 8 dollars."
+  },
+  {
+    "id": 376,
+    "domain": "financial_literacy",
+    "front": "How can bank fees affect the real return on a savings account?",
+    "back": "If the fees charged on an account are larger than the interest it earns, the account holder can actually lose money over time even though the account technically pays interest."
+  },
+  {
+    "id": 377,
+    "domain": "financial_literacy",
+    "front": "What is the difference between gross income and net income?",
+    "back": "Gross income is the total amount earned before any deductions. Net income, or take-home pay, is what remains after deductions such as income tax, Canada Pension Plan, and Employment Insurance are subtracted."
+  },
+  {
+    "id": 378,
+    "domain": "financial_literacy",
+    "front": "A pay stub shows gross pay of 1,200 dollars with deductions of 180, 58, and 19 dollars. What is the net pay?",
+    "back": "Total deductions are 180 plus 58 plus 19, which is 257 dollars. Net pay is 1,200 minus 257, which is 943 dollars."
+  },
+  {
+    "id": 379,
+    "domain": "financial_literacy",
+    "front": "Total deductions equal 22 percent of a 1,500 dollar gross pay. What is the net pay?",
+    "back": "The deduction amount is 0.22 times 1,500, which is 330 dollars. Net pay is 1,500 minus 330, which is 1,170 dollars."
+  },
+  {
+    "id": 380,
+    "domain": "financial_literacy",
+    "front": "What misconception do students often have about gross pay and net pay?",
+    "back": "Students often assume gross pay and net pay are the same, or that hourly wage multiplied by hours worked is the amount that actually lands in a bank account, without accounting for deductions."
+  },
+  {
+    "id": 381,
+    "domain": "financial_literacy",
+    "front": "What is proportional reasoning, and why is it central to the financial literacy strand?",
+    "back": "Proportional reasoning is the ability to recognize and work with a constant ratio between two related quantities. Percent, unit price, and interest rate are all examples of ratios, so the same reasoning skill underlies nearly every topic in this strand."
+  },
+  {
+    "id": 382,
+    "domain": "financial_literacy",
+    "front": "Why is identifying the base amount important in a percent problem?",
+    "back": "The base amount is the value the percent is applied to. Using the wrong base, such as applying a decrease to the original price instead of the increased price, produces an incorrect answer even if the percent itself is correct."
+  },
+  {
+    "id": 383,
+    "domain": "financial_literacy",
+    "front": "How do you convert a percent to multiply directly for an increase, such as a 15 percent markup?",
+    "back": "Add the percent to 100 percent, so 100 plus 15 is 115 percent, then convert to a decimal, 1.15. Multiplying the original amount by 1.15 gives the increased amount in one step."
+  },
+  {
+    "id": 384,
+    "domain": "financial_literacy",
+    "front": "What are Canada Pension Plan and Employment Insurance deductions, in simple terms?",
+    "back": "They are mandatory amounts taken from an employee's gross pay. Canada Pension Plan contributes toward retirement income, and Employment Insurance provides income support if someone loses their job."
+  },
+  {
+    "id": 385,
+    "domain": "financial_literacy",
+    "front": "A budget question involves both a percent and a multi-step calculation. What is the general strategy?",
+    "back": "First find the percent value of the relevant base amount, then use that value in the next step, such as subtracting it from income or adding it to a price. Breaking the problem into stages avoids errors."
+  },
+  {
+    "id": 386,
+    "domain": "financial_literacy",
+    "front": "Why is time expressed in years in the simple interest formula, even when a problem gives months or days?",
+    "back": "The interest rate is normally an annual rate, so time must be converted to match, as a fraction of a year, before multiplying. Mismatched units produce a wrong answer even if the formula is used correctly."
+  },
+  {
+    "id": 387,
+    "domain": "financial_literacy",
+    "front": "How many compounding periods occur in 5 years if interest compounds quarterly?",
+    "back": "Quarterly compounding means 4 periods per year, so over 5 years there are 5 times 4, which is 20 compounding periods total."
+  },
+  {
+    "id": 388,
+    "domain": "financial_literacy",
+    "front": "What happens to the compounding rate per period when interest compounds quarterly instead of annually?",
+    "back": "The annual rate is divided by 4 to find the rate used each quarter. For example, an 8 percent annual rate compounded quarterly uses 0.08 divided by 4, or 0.02, per quarter."
+  },
+  {
+    "id": 389,
+    "domain": "financial_literacy",
+    "front": "Why might two prices that look the same in total actually differ once unit price is calculated?",
+    "back": "Products are often sold in different package sizes, so comparing total price alone ignores how much product you actually get. Dividing price by quantity reveals the true cost per unit for a fair comparison."
+  },
+  {
+    "id": 390,
+    "domain": "financial_literacy",
+    "front": "In a budget, what should be included as its own line item rather than treated as leftover money?",
+    "back": "Savings, including an emergency fund, should be budgeted as a specific planned amount. Treating savings as whatever happens to be left over often results in little or nothing being saved."
+  },
+  {
+    "id": 391,
+    "domain": "financial_literacy",
+    "front": "A 60 dollar item has 13 percent HST added. What single multiplication finds the total price?",
+    "back": "Multiply 60 by 1.13, since adding 13 percent tax is the same as multiplying by 100 percent plus 13 percent. This gives a total of 67.80 dollars."
+  },
+  {
+    "id": 392,
+    "domain": "financial_literacy",
+    "front": "How would you find the original price of an item if you only know the sale price and the discount percent?",
+    "back": "Divide the sale price by the decimal representing the percent remaining. For example, if a sale price of 45 dollars reflects a 25 percent discount, divide 45 by 0.75 to find the original price of 60 dollars."
+  },
+  {
+    "id": 393,
+    "domain": "financial_literacy",
+    "front": "Why do teacher candidates need to be comfortable with both the discount-then-subtract method and the direct-multiply method?",
+    "back": "Both methods are used in real classrooms, and the direct-multiply method becomes essential for multi-step problems combining a discount with a tax. Understanding both helps a teacher explain the concept in more than one way."
+  },
+  {
+    "id": 394,
+    "domain": "financial_literacy",
+    "front": "A worker's gross pay is 2,000 dollars and their net pay is 1,540 dollars. What percent of gross pay was deducted?",
+    "back": "The deduction amount is 2,000 minus 1,540, which is 460 dollars. Dividing 460 by 2,000 and multiplying by 100 gives 23 percent deducted."
+  },
+  {
+    "id": 395,
+    "domain": "financial_literacy",
+    "front": "Why is compound interest a better model for most real savings accounts and loans than simple interest?",
+    "back": "Most banks and lenders calculate interest on the growing balance rather than only on the original amount, so compound interest more accurately reflects how real accounts and loans actually grow or accumulate over time."
+  },
+  {
+    "id": 396,
+    "domain": "financial_literacy",
+    "front": "What is a practical reason unit pricing matters beyond passing a math test?",
+    "back": "Unit pricing lets shoppers make informed decisions between different brands or package sizes, helping them find the actual cheaper option rather than being misled by a larger looking package or a lower total price."
+  },
+  {
+    "id": 397,
+    "domain": "financial_literacy",
+    "front": "A student calculates 20 percent of 60 dollars as 20 times 60 instead of 0.20 times 60. What is the underlying error?",
+    "back": "The student failed to convert the percent to a decimal before multiplying, treating 20 percent as the whole number 20. This produces an answer 100 times too large."
+  },
+  {
+    "id": 398,
+    "domain": "financial_literacy",
+    "front": "Two accounts pay the same annual interest rate, one compounded annually and one compounded monthly. Which grows faster and why?",
+    "back": "The account compounded monthly grows faster, because interest is added to the balance more often, so each new period's interest is calculated on a slightly larger amount sooner than in the annual account."
+  },
+  {
+    "id": 399,
+    "domain": "financial_literacy",
+    "front": "In the Ontario curriculum, at what grade range do students typically start using simple interest formulas and comparing loan or investment options?",
+    "back": "This content develops mainly in Grade 7 and Grade 8, building on percent skills introduced earlier, and leads into reading pay stubs and multi-category budgets by the end of elementary school."
+  },
+  {
+    "id": 400,
+    "domain": "financial_literacy",
+    "front": "Why did Ontario make Financial Literacy its own strand in the 2020 curriculum revision instead of leaving it inside Number sense?",
+    "back": "The Ministry wanted to ensure students develop real skills for making informed decisions about earning, spending, saving, and borrowing, rather than treating money topics as a minor add-on within another strand."
+  },
+  {
+    "id": 401,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What are the five content strands of the Ontario mathematics curriculum?",
+    "back": "Number, Algebra, Data, Spatial Sense, and Financial Literacy. These five strands organize all math content expectations from Grade 1 to Grade 8."
+  },
+  {
+    "id": 402,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What does the Number strand focus on?",
+    "back": "Understanding quantity, place value, fractions, decimals, percents, and the four operations. It is usually the largest strand because number sense supports every other strand."
+  },
+  {
+    "id": 403,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What topics does the Algebra strand include?",
+    "back": "Patterning, algebraic expressions, equations, variables, mathematical modelling, and coding. Coding was added so students represent patterns and relationships using code as well as symbols."
+  },
+  {
+    "id": 404,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What does the Data strand cover?",
+    "back": "Data literacy and probability, including collecting, organizing, displaying, and interpreting data, plus foundational ideas about chance. It connects strongly to media literacy and questioning misleading data presentations."
+  },
+  {
+    "id": 405,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What was combined to form the Spatial Sense strand?",
+    "back": "Geometry and measurement were combined into one strand. It includes 2D shapes, 3D objects, location and movement, and measurement concepts like length, area, volume, mass, and time."
+  },
+  {
+    "id": 406,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What does the Financial Literacy strand teach?",
+    "back": "Money management, simple interest, budgeting, consumer skills, and financial decision making appropriate to grade level. It builds in complexity from the early grades through Grade 8."
+  },
+  {
+    "id": 407,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "List the seven mathematical processes in the Ontario curriculum.",
+    "back": "Problem solving, reasoning and proving, reflecting, selecting tools and computational strategies, connecting, representing, and communicating. These apply across all strands and grades."
+  },
+  {
+    "id": 408,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What does teaching through problem solving mean?",
+    "back": "Posing a rich problem first and letting students use existing knowledge to find a solution path, rather than teaching a procedure and then assigning practice questions. Problem solving is the main vehicle for learning math in Ontario classrooms."
+  },
+  {
+    "id": 409,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What is the mathematical process of reasoning and proving?",
+    "back": "Developing and evaluating mathematical arguments, including justifying why a strategy works, noticing patterns, making conjectures, and testing whether those conjectures hold."
+  },
+  {
+    "id": 410,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What is the reflecting process, and how does a teacher support it?",
+    "back": "Students pause during and after their work to consider whether their approach and answer make sense. Teachers support this by asking questions like does that answer seem reasonable, instead of just confirming right or wrong."
+  },
+  {
+    "id": 411,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What does selecting tools and computational strategies involve?",
+    "back": "Students learn to choose the tool or method that fits the problem, such as a manipulative, mental math, an algorithm, or technology. It also involves understanding that strategies vary in efficiency depending on the numbers involved."
+  },
+  {
+    "id": 412,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What does the connecting process ask students to do?",
+    "back": "Link new mathematical ideas to what they already know and link mathematics to other subjects and everyday life, such as relating a new concept back to something learned in a previous grade."
+  },
+  {
+    "id": 413,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What does representing mean as a mathematical process?",
+    "back": "Showing mathematical thinking in more than one way, such as with pictures, concrete materials, numbers, words, or symbols. Multiple representations deepen understanding and reveal how a student is thinking."
+  },
+  {
+    "id": 414,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What does communicating mean in the mathematical processes?",
+    "back": "Expressing mathematical thinking orally, in writing, and visually using correct mathematical language. Teachers model precise vocabulary and give students regular chances to explain their reasoning."
+  },
+  {
+    "id": 415,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What does CRA stand for in math instruction?",
+    "back": "Concrete-Representational-Abstract, an instructional continuum that moves from physical materials to pictures or diagrams to symbols and numbers when introducing a new concept."
+  },
+  {
+    "id": 416,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What happens at the concrete stage of the CRA continuum?",
+    "back": "Students use physical materials such as counters, base ten blocks, or fraction tiles to model a mathematical idea with their hands, building understanding through direct physical experience."
+  },
+  {
+    "id": 417,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What happens at the representational stage of the CRA continuum?",
+    "back": "Students use drawings, diagrams, or number lines that stand in for concrete materials, such as drawing circles for counters. This stage bridges hands-on experience and pure symbol use."
+  },
+  {
+    "id": 418,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What happens at the abstract stage of the CRA continuum?",
+    "back": "Students work directly with numbers, symbols, and equations without concrete or pictorial support. Students should not be rushed here before they have enough concrete and representational experience."
+  },
+  {
+    "id": 419,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What are the three parts of the three-part math lesson model?",
+    "back": "Minds-on, action, and consolidation. This structure supports teaching through problem solving and gives every lesson a consistent, predictable shape."
+  },
+  {
+    "id": 420,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What happens during the minds-on phase of a math lesson?",
+    "back": "A short opening activity, usually five to ten minutes, that activates prior knowledge and introduces the day's context, such as a quick number talk or a hook question."
+  },
+  {
+    "id": 421,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What happens during the action phase of a math lesson?",
+    "back": "Students engage with the main problem, usually in pairs or small groups, while the teacher observes, listens, and asks probing questions rather than directing. This phase takes up the largest portion of lesson time."
+  },
+  {
+    "id": 422,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What happens during the consolidation phase of a math lesson?",
+    "back": "The class comes together to share and compare strategies. The teacher deliberately sequences a few selected strategies from less efficient to more efficient and connects them to the intended curriculum expectation."
+  },
+  {
+    "id": 423,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What is a manipulative in math teaching?",
+    "back": "A physical or virtual object that helps students build, represent, and explore mathematical ideas, such as base ten blocks, pattern blocks, geoboards, or two-colour counters."
+  },
+  {
+    "id": 424,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "Why do base ten blocks model place value effectively?",
+    "back": "Because the physical size relationship between a unit, a rod, and a flat mirrors the ten-to-one relationship between ones, tens, and hundreds, letting students see place value physically."
+  },
+  {
+    "id": 425,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What is math talk in the classroom?",
+    "back": "The purposeful use of classroom discussion to build mathematical understanding, using specific talk moves so students share, clarify, and build on one another's reasoning rather than only reporting answers to the teacher."
+  },
+  {
+    "id": 426,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What is a number talk?",
+    "back": "A short, five to fifteen minute routine where students solve a computation mentally and then share and compare different strategies, which the teacher records without judging one as better at first."
+  },
+  {
+    "id": 427,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What is the main goal of a number talk?",
+    "back": "Flexible thinking about numbers and operations, not speed or a single memorized procedure. It builds number sense through repeated low-pressure practice explaining strategies aloud."
+  },
+  {
+    "id": 428,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "Why do students think multiplication always makes numbers bigger?",
+    "back": "This misconception comes from experience with whole numbers only, and it breaks down when multiplying or dividing by numbers less than one, such as fractions or decimals. Concrete and visual work with fractions helps correct it."
+  },
+  {
+    "id": 429,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What misconception involves the equal sign, and how is it addressed?",
+    "back": "Students often treat the equal sign as meaning the answer comes next rather than as a symbol of balance. Regular practice with true and false number sentences and equations where the unknown is not last reinforces the balance meaning."
+  },
+  {
+    "id": 430,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "Give an example of a place value misconception.",
+    "back": "A student may write three hundred five as 3005 by directly translating the words instead of understanding digit position. Concrete base ten work and attention to zero as a placeholder address this."
+  },
+  {
+    "id": 431,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What is a common fraction comparison misconception?",
+    "back": "Comparing fractions by looking only at the numerator or denominator alone, such as thinking one third is greater than one half because three is greater than two. Visual fraction models correct this by showing actual size."
+  },
+  {
+    "id": 432,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What is the recommended teacher response when a student shows a misconception?",
+    "back": "Ask questions that surface the student's reasoning, use a concrete or visual representation to show where the misconception breaks down, and let the student revise their own thinking, rather than simply correcting and moving on."
+  },
+  {
+    "id": 433,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What does culturally responsive math pedagogy involve?",
+    "back": "Recognizing that students bring diverse cultural knowledge, languages, and experiences, and drawing on that diversity in math teaching rather than treating one narrow cultural context as the only valid approach."
+  },
+  {
+    "id": 434,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "How can problem contexts support culturally responsive teaching?",
+    "back": "By reflecting the backgrounds and communities of the students in the room and honouring different ways families and cultures use numbers, measurement, and patterns in daily life."
+  },
+  {
+    "id": 435,
+    "domain": "mathematics_curriculum_and_instructional_foundations",
+    "front": "What do Ontario curriculum documents say about land-based learning in math?",
+    "back": "They reference connecting mathematical concepts like measurement and spatial reasoning to land-based and Indigenous ways of knowing, using authentic resources and genuine community partnerships rather than superficial references."
+  },
+  {
+    "id": 436,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is Growing Success?",
+    "back": "It is the Ontario Ministry of Education policy document that sets out the rules for assessment, evaluation, and reporting in all publicly funded schools. It applies from Grades 1 to 12 and defines the shared framework every Ontario teacher must follow."
+  },
+  {
+    "id": 437,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is the difference between assessment and evaluation?",
+    "back": "Assessment is the ongoing process of gathering information about student learning. Evaluation is the process of judging the quality of that learning, usually resulting in a grade or mark. Assessment happens constantly, while evaluation happens at set points."
+  },
+  {
+    "id": 438,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "Name the first fundamental principle from Growing Success.",
+    "back": "Assessment and evaluation practices must be fair, transparent, and equitable for all students, meaning criteria for success are never a secret and no student is judged by a different standard."
+  },
+  {
+    "id": 439,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "Name the second fundamental principle from Growing Success.",
+    "back": "Practices must support all students, including students with special education needs, students learning the language of instruction, and First Nation, Metis, and Inuit students."
+  },
+  {
+    "id": 440,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "Name the third fundamental principle from Growing Success.",
+    "back": "Practices must be carefully planned to relate to the curriculum expectations and learning goals, and as much as possible to students' interests, learning styles, needs, and experiences."
+  },
+  {
+    "id": 441,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "Name the fourth fundamental principle from Growing Success.",
+    "back": "Practices must be communicated clearly to students and parents at the start of the year or course, and at other appropriate points, so students are never surprised by how they are judged."
+  },
+  {
+    "id": 442,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "Name the fifth fundamental principle from Growing Success.",
+    "back": "Practices must be ongoing, varied in nature, and administered over time to give students multiple and varied opportunities to demonstrate the full range of their learning."
+  },
+  {
+    "id": 443,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "Name the sixth fundamental principle from Growing Success.",
+    "back": "Practices must provide ongoing descriptive feedback that is clear, specific, meaningful, and timely, so it actually helps students improve."
+  },
+  {
+    "id": 444,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "Name the seventh fundamental principle from Growing Success.",
+    "back": "Practices must develop students' own ability to assess their learning, set specific goals, and plan their own next steps, building self-assessment skills."
+  },
+  {
+    "id": 445,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is assessment for learning?",
+    "back": "Assessment used while a student is still learning, where the teacher gathers evidence to decide what to teach next and how. It is teacher-driven and does not usually result in a grade."
+  },
+  {
+    "id": 446,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is assessment as learning?",
+    "back": "Assessment used while a student is still learning, where the student uses evidence about their own progress to monitor themselves, ask questions, and adjust their own strategies. It builds self-assessment skills."
+  },
+  {
+    "id": 447,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is assessment of learning?",
+    "back": "Assessment used after learning has taken place to judge how much a student has achieved against the curriculum expectations. It is summative and produces the grades that appear on a report card."
+  },
+  {
+    "id": 448,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is diagnostic assessment?",
+    "back": "Assessment given before instruction on a new unit or concept begins. It finds out what a student already knows and any misconceptions they hold, and it is not graded."
+  },
+  {
+    "id": 449,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is formative assessment?",
+    "back": "Assessment given throughout instruction, while learning is still developing. It is used to guide teaching and is not used to calculate a report card grade, even though it is tracked carefully."
+  },
+  {
+    "id": 450,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is summative assessment?",
+    "back": "Assessment given at or near the end of a period of learning, such as the end of a unit or term. It judges achievement against curriculum expectations and forms the basis of a report card grade."
+  },
+  {
+    "id": 451,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "A teacher gives a quiz mid-unit only to decide what to reteach. Is this formative or summative?",
+    "back": "It is formative. The timing, during instruction, and the purpose, guiding further teaching, make it formative, even though it looks like a graded test in format."
+  },
+  {
+    "id": 452,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is a learning goal?",
+    "back": "A statement, drawn directly from the curriculum expectations, that tells students what they are expected to know or do by the end of a lesson or series of lessons, shared in student-friendly language."
+  },
+  {
+    "id": 453,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What are success criteria?",
+    "back": "Specific, observable statements that describe what achieving a learning goal actually looks like, such as the steps needed to solve and check a word problem correctly."
+  },
+  {
+    "id": 454,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "Why does Growing Success encourage co-constructing success criteria with students?",
+    "back": "When students help build the criteria themselves, they understand what quality work looks like at a deeper level, which supports both careful planning and student self-assessment skills."
+  },
+  {
+    "id": 455,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is descriptive feedback?",
+    "back": "Feedback that tells a student specifically what they did well and specifically what to do next, in relation to the learning goal and success criteria. It never includes a mark or grade."
+  },
+  {
+    "id": 456,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is evaluative feedback?",
+    "back": "Feedback that communicates a judgment about the quality of work, usually through a grade, level, score, or rubric rating. It belongs at the summative stage, not during ongoing learning."
+  },
+  {
+    "id": 457,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "Why do teachers avoid attaching a grade to descriptive feedback during learning?",
+    "back": "Once students see a grade, they tend to stop reading the comment because the grade feels final. Leaving the grade off keeps students focused on the specific next steps in the feedback."
+  },
+  {
+    "id": 458,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is a rubric?",
+    "back": "A tool that lists criteria for a piece of work and describes the different levels of quality or achievement for each criterion, commonly built around Levels 1 through 4 in Ontario."
+  },
+  {
+    "id": 459,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "Which level of achievement represents the Ontario provincial standard?",
+    "back": "Level 3 represents the provincial standard on the four-level achievement scale used in Ontario curriculum documents and rubrics."
+  },
+  {
+    "id": 460,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What are the four categories of the Ontario achievement chart?",
+    "back": "Knowledge and Understanding, Thinking, Communication, and Application. Together they describe the different dimensions of student achievement in every subject, including math."
+  },
+  {
+    "id": 461,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "In math, what does the Thinking category of the achievement chart assess?",
+    "back": "It assesses the problem-solving and reasoning process a student uses, such as selecting an efficient strategy or reasoning through an unfamiliar problem, not just the final answer."
+  },
+  {
+    "id": 462,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "In math, what does the Communication category of the achievement chart assess?",
+    "back": "It assesses how clearly a student explains and represents their thinking, using mathematical language, symbols, and representations such as diagrams, number lines, or equations."
+  },
+  {
+    "id": 463,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is triangulation of evidence?",
+    "back": "Gathering assessment evidence from three different sources, observation, conversation, and product, so that a grade is never based on just one type of proof."
+  },
+  {
+    "id": 464,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What does observation mean as a source of assessment evidence?",
+    "back": "The teacher watches students as they work, noticing strategies, misconceptions, and problem-solving behaviour in the moment, such as how a student uses manipulatives."
+  },
+  {
+    "id": 465,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What does conversation mean as a source of assessment evidence?",
+    "back": "The teacher talks directly with the student about their learning, asking questions that reveal understanding and reasoning, which can show more than a written answer alone."
+  },
+  {
+    "id": 466,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What does product mean as a source of assessment evidence?",
+    "back": "The tangible work a student produces, such as a worksheet, test, or project. Growing Success states product evidence alone is not sufficient to fairly judge learning."
+  },
+  {
+    "id": 467,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "Why is triangulation especially important for some students with special education needs?",
+    "back": "Some students struggle to show what they know through a written product alone, so combining observation and conversation with product gives a fuller, fairer picture of their learning."
+  },
+  {
+    "id": 468,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "What is professional judgment in the context of Growing Success?",
+    "back": "The informed decision-making a qualified teacher applies when interpreting assessment evidence and arriving at a grade, described as being at the heart of effective assessment and evaluation."
+  },
+  {
+    "id": 469,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "When weighing evidence for a report card grade, which evidence should carry more weight?",
+    "back": "Growing Success directs teachers to give greater weight to the most consistent and most recent evidence of a student's achievement of the curriculum expectations."
+  },
+  {
+    "id": 470,
+    "domain": "assessment_and_evaluation_practices",
+    "front": "Why should a math teacher assess a student's reasoning process, not just the final numeric answer?",
+    "back": "A correct answer can hide a flawed strategy that happened to work, and a wrong answer can result from a single small error inside otherwise strong reasoning, so the process reveals true understanding."
+  },
+  {
+    "id": 471,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What is Learning for All?",
+    "back": "It is an Ontario Ministry of Education resource guide that helps teachers plan instruction and assessment that responds to the needs of every student, including students with special education needs, English language learners, and students from diverse backgrounds. It links classroom practice to Ontario's Equity and Inclusive Education Strategy."
+  },
+  {
+    "id": 472,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What is Universal Design for Learning (UDL)?",
+    "back": "UDL is a planning approach that asks teachers to design lessons with student variability in mind from the start, instead of adjusting a lesson only after some students struggle. It is built around three core principles described in Learning for All."
+  },
+  {
+    "id": 473,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "Name the three principles of UDL.",
+    "back": "Multiple means of representation, multiple means of action and expression, and multiple means of engagement."
+  },
+  {
+    "id": 474,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What does multiple means of representation mean in a math lesson?",
+    "back": "It means presenting the same math content in more than one format, such as a number line, physical manipulatives, and a written explanation, so students who understand information differently can all access the concept."
+  },
+  {
+    "id": 475,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What does multiple means of action and expression mean in a math lesson?",
+    "back": "It means giving students more than one way to show what they know, such as explaining reasoning out loud, writing steps, or building a model with manipulatives. The math goal stays the same but the path to demonstrate it varies."
+  },
+  {
+    "id": 476,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What does multiple means of engagement mean in a math lesson?",
+    "back": "It means offering more than one way to spark and hold student motivation and interest, since students engage with different tasks, games, or real-world contexts in different ways. Teachers plan for this deliberately rather than assuming one approach will motivate everyone."
+  },
+  {
+    "id": 477,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What is differentiated instruction?",
+    "back": "Differentiated instruction means adjusting a lesson so more students can reach the same learning goal. Learning for All describes four elements a teacher can differentiate: content, process, product, and learning environment."
+  },
+  {
+    "id": 478,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What does differentiating 'content' mean?",
+    "back": "It means adjusting what students are learning, for example offering the same math concept at different levels of complexity or through different entry points, while keeping the underlying learning goal the same for the class."
+  },
+  {
+    "id": 479,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What does differentiating 'process' mean?",
+    "back": "It means adjusting how students come to understand the content, for example some students working through guided practice with the teacher while others work independently once they are ready."
+  },
+  {
+    "id": 480,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What does differentiating 'product' mean?",
+    "back": "It means adjusting how students demonstrate their learning, for example allowing a student to explain a solution verbally, in writing, or through a visual model instead of requiring one fixed format."
+  },
+  {
+    "id": 481,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What does differentiating 'learning environment' mean?",
+    "back": "It means adjusting the physical or social space of the classroom, for example flexible seating, quiet work areas, or small group spaces, so different students can work in conditions that support them."
+  },
+  {
+    "id": 482,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "Does differentiated instruction lower expectations for some students?",
+    "back": "No. The learning goal stays the same for the whole class. What changes is the route students take to reach the goal and how they show they got there, not the goal itself."
+  },
+  {
+    "id": 483,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What is the tiered, or layered, approach in Learning for All?",
+    "back": "It is a model that describes how instruction and intervention build on each other across a school in three tiers, helping teachers match the intensity of support to a student's level of need."
+  },
+  {
+    "id": 484,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What happens at tier one of the tiered model?",
+    "back": "Tier one is strong, differentiated classroom instruction available to all students. Most students have their needs met through good tier one teaching alone when it already reflects UDL and differentiation."
+  },
+  {
+    "id": 485,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What happens at tier two of the tiered model?",
+    "back": "Tier two is more targeted support for a smaller group of students who need something beyond general classroom instruction, such as a small group intervention on a specific math skill like multiplication fact fluency."
+  },
+  {
+    "id": 486,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What happens at tier three of the tiered model?",
+    "back": "Tier three is intensive, individualized support for students whose needs are not met even with targeted small group help. It is often closely tied to formal identification processes and an Individual Education Plan."
+  },
+  {
+    "id": 487,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "Is movement through the tiered model a one-way ladder?",
+    "back": "No. Learning for All frames the tiered model as responsive and flexible, so a student can move between tiers as their needs and progress change over time."
+  },
+  {
+    "id": 488,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What is an Individual Education Plan (IEP)?",
+    "back": "An IEP is a written plan that documents the special education program and services a student with identified needs will receive. Students formally identified as exceptional through an Identification, Placement, and Review Committee must have one."
+  },
+  {
+    "id": 489,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What is an Identification, Placement, and Review Committee (IPRC)?",
+    "back": "It is the formal Ontario process through which a student is identified as exceptional. A student identified this way must have an Individual Education Plan."
+  },
+  {
+    "id": 490,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What is an accommodation on an IEP?",
+    "back": "An accommodation is a support, strategy, or change to how a student accesses the same grade level curriculum expectations as their peers, such as extra time, a calculator, or having questions read aloud. The learning expectations themselves do not change."
+  },
+  {
+    "id": 491,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What is a modification on an IEP?",
+    "back": "A modification is a change to the actual grade level expectations a student is working toward, such as expectations from a different grade level or a reduced number of expectations. Because it changes what is taught and assessed, it is more significant than an accommodation."
+  },
+  {
+    "id": 492,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What is a student profile?",
+    "back": "A student profile is a picture of one learner built from multiple sources of information, including assessment data, learning skills, interests, strengths, and relevant background such as language history. It is updated throughout the year as new evidence is gathered."
+  },
+  {
+    "id": 493,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What is a class profile?",
+    "back": "A class profile brings individual student profiles together into a whole picture of the class, helping a teacher see patterns such as groups of students who share similar readiness in a math strand. It supports decisions about grouping and instructional strategy."
+  },
+  {
+    "id": 494,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What types of assessment feed into student and class profiles?",
+    "back": "Diagnostic assessment at the start of a unit, formative assessment during learning, and summative assessment at the end all feed into these profiles. Assessment directly shapes instructional planning rather than only happening after teaching is done."
+  },
+  {
+    "id": 495,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What is an important reminder about English language learners and math ability?",
+    "back": "A student's ability with the English language is separate from their ability with math concepts. A language barrier should never be mistaken for a math skill gap."
+  },
+  {
+    "id": 496,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What strategies help English language learners access math word problems?",
+    "back": "Using visuals, manipulatives, and diagrams alongside verbal explanation, pre-teaching key vocabulary before a problem is given, and allowing students to show understanding through drawings or number models when language is still developing."
+  },
+  {
+    "id": 497,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "How can a student's first language support their math learning?",
+    "back": "A student can reason through a problem in their first language and then connect that reasoning to English math vocabulary. This builds understanding rather than avoiding English, and teachers are encouraged to treat the first language as a resource."
+  },
+  {
+    "id": 498,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "Why does the context of a math word problem matter for equity?",
+    "back": "A word problem set in an unfamiliar context, such as an unfamiliar sport, food, or family structure, adds a barrier unrelated to the math skill being tested. Removing this kind of barrier connects directly to Ontario's Equity and Inclusive Education Strategy."
+  },
+  {
+    "id": 499,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "What does culturally responsive teaching mean for math examples?",
+    "back": "It means choosing contexts, names, and scenarios that reflect the diversity of students in the room instead of defaulting to one cultural frame of reference, so the context of a problem does not stand between a student and the math itself."
+  },
+  {
+    "id": 500,
+    "domain": "learning_for_all_and_inclusive_teaching",
+    "front": "How can a teacher address math anxiety through inclusive practice?",
+    "back": "By building a classroom culture where mistakes are treated as part of learning, offering multiple ways to show understanding as UDL describes, and pacing instruction so students experience early success that builds confidence."
+  }
+]
